@@ -103,3 +103,7 @@ Para mí es importante analizar este tema debido a que, es necesario entender c�
 -Realizar reportajes de audio (podcasts) que incluyan las gráficas externamente en la misma entrada.
 
 * Con este proyecto me gustaría aprender qué es lo que hace que tantos deportistas chilenos se quejen de falta de apoyo económico por parte de las autoridades del Estado pese a ser Chile uno de los países que más invierte en deporte en latinoamérica.
+
+9) ## Presentación y video
+file:///C:/Users/Jorge/Downloads/Narraci%C3%B3n%20Gr%C3%A1fica%20de%20No%20Ficci%C3%B3n.pdf
+
