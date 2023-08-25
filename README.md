@@ -37,7 +37,7 @@ También nos gustaría analizar una base de datos más grande, que recopile el r
 Además, buscamos tener respuestas más cercanas, por lo que esperamos poder realizar una encuesta propia, distribuida a través de los contactos deportivos que hemos podido desarrollar a lo largo de nuestras cortas carreras como periodistas. 
 
 6) ## Resultados mínimos
-Lo mínimo que se puede contar como historia con los datos obtenidos, es sobre la diferencia de logros obtenidos por los países que participan de los juegos panamericanos, y, además se puede hablar sobre la relación de los logros obtenidos, con la inversión economica de cada una de las confederaciones participantes de los juegos.  
+Lo mínimo que se puede contar como historia con los datos obtenidos, es sobre la diferencia de logros obtenidos por los países que participan de los juegos panamericanos, y, además se puede hablar sobre la relación de los logros obtenidos, con la inversión económica de cada una de las confederaciones participantes de los juegos.  
 
 Los datos que se manejan hasta el momento sirven para contar historias acerca de todo lo antes mencionado y, además, profundizar en estas. También se puede indagar en cómo se hace la repartición de fondos en el deporte nacional, y analizar si estos ingresos potencian o no, el desarrollo de los diferentes deportistas de alto rendimiento.  
 
@@ -104,4 +104,11 @@ Para mí es importante analizar este tema debido a que, es necesario entender c�
 
 * Con este proyecto me gustaría aprender qué es lo que hace que tantos deportistas chilenos se quejen de falta de apoyo económico por parte de las autoridades del Estado pese a ser Chile uno de los países que más invierte en deporte en latinoamérica.
 
+<<<<<<< HEAD
 9) ## Presentación y video
+=======
+
+9) ## Presentación y video
+
+https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:8e922dcf-bc9b-3ab1-8dec-8cd472f2c841
+>>>>>>> 15dd4b010489da74eb282f188b774561c39a3c64
