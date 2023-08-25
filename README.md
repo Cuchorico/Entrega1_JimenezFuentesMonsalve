@@ -33,7 +33,9 @@ Nuestra historia no es novedosa en el sentido de contar los estragos que ya hace
 
 * IDEAS.
 -Realizar un sitio web con artículos que mezclen reportajes audiovisuales de deportistas profesionales chilen@s que denuncien problemáticas en su area deportiva a modo de caso ejemplificador, acompañado de gráficas que demuestren la denuncia por parte de otros de sus compañer@s y la cantidad de bienes invertida en esa área deportiva.
+
 -Realizar artículos escritos acompañados de gráficas.
+
 -Realizar reportajes de audio (podcasts) que incluyan las gráficas externamente en la misma entrada.
 
-* Çon este proyecto me gustaría aprender qué es lo que hace que tantos deportistas chilenos se quejen de falta de apoyo económico por parte de las autoridades del Estado pese a ser Chile uno de los países que más invierte en deporte en latinoamérica.
+* Con este proyecto me gustaría aprender qué es lo que hace que tantos deportistas chilenos se quejen de falta de apoyo económico por parte de las autoridades del Estado pese a ser Chile uno de los países que más invierte en deporte en latinoamérica.
