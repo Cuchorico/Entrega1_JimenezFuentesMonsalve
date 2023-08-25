@@ -12,3 +12,6 @@ Añadido a eso están las recurrentes quejas de futbolistas profesionales en la 
 
 4) ##Novedad de historia
 Nuestra historia no es novedosa en el sentido de contar los estragos que ya hace mucho tiempo vienen siendo expresados por los deportistas chilenos, sino en contextualizarlos dentro de un evento tan importante como son los panamericanos y del cual somos locales, y de brindarles fundamento cuantitativo, pues generaremos bases de datos propias encuestando a deportistas y usando algunas existentes.
+
+8) ##Análisis personal
+
