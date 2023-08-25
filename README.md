@@ -74,7 +74,8 @@ Para mí es importante analizar este tema debido a que, es necesario entender c�
 
 *  Con esto espero contar la historia de los deportistas de elite que nos representan internacionalmente y los estragos que conlleva serlo, para que las autoridades tomen acción o hasta el mundo privado pueda aportar soluciones, como con un redireccionamiento o reorganización de los recursos públicos, mejores y más profesionales que los entrenen para que no deban, en muchos casos, entrenar fuera de nuestro país, investigaciones policiales por posibles desvíos ilícitos de fondos públicos a nuestros deportistas, etc.
 
-* IDEAS.
+* IDEAS
+
 -Realizar un sitio web con artículos que mezclen reportajes audiovisuales de deportistas profesionales chilen@s que denuncien problemáticas en su area deportiva a modo de caso ejemplificador, acompañado de gráficas que demuestren la denuncia por parte de otros de sus compañer@s y la cantidad de bienes invertida en esa área deportiva.
 
 -Realizar artículos escritos acompañados de gráficas.
