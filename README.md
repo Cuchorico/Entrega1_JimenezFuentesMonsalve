@@ -104,11 +104,7 @@ Para mí es importante analizar este tema debido a que, es necesario entender c�
 
 * Con este proyecto me gustaría aprender qué es lo que hace que tantos deportistas chilenos se quejen de falta de apoyo económico por parte de las autoridades del Estado pese a ser Chile uno de los países que más invierte en deporte en latinoamérica.
 
-<<<<<<< HEAD
 9) ## Presentación y video
-=======
-
-9) ## Presentación y video
-
 https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:8e922dcf-bc9b-3ab1-8dec-8cd472f2c841
->>>>>>> 15dd4b010489da74eb282f188b774561c39a3c64
+
+https://youtu.be/AcIkOjF3SYk
