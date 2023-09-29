@@ -3,4 +3,4 @@ values ={"Año":[2020 , 2021 , 2022],"Deporte competitivo":[646579000 , 20521872
 Gastos_IND = pd.DataFrame(values)
 Gastos_IND["% del gasto total"]= Gastos_IND["Deporte competitivo"]/Gastos_IND["Total"]*100
 
-Gastos_IND<
+Gastos_IND
