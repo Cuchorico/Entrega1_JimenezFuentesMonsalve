@@ -22,7 +22,7 @@ https://www.emol.com/noticias/Deportes/2017/11/11/882625/Pedir-plata-en-la-calle
 "Los deportistas de elite chilenos no reciben una correcta preparación física y psicológica, a pesar de la entrega de cuantisos recursos, y medidas estatales que los beneficien e incentiven".
 
 3) ## Antecedentes
-Como antecedentes, es difícil encontrar un estudio que compare los datos que nosotros planeamos comparar. Hay archivos y artículos relacionados con la economía deportiva del país, pero nada que busque realizar un descubrimiento como el nuestro. Al fin y al cabo, buscamos probar lo que variadas fuentes nos han dicho que es verdad (Como el profesor Aquiles Yáñez, investigador de la Universidad Mayor, o Yanny Gajardo, entrenadora del equipo de Lucha Olímpica Femenina), pero demostrándolo de manera cuantitativa. 
+Como antecedentes, es difícil encontrar un estudio que compare los datos que nosotros planeamos comparar. Hay archivos y artículos relacionados con la economía deportiva del país, pero nada que busque realizar un descubrimiento como el nuestro. Al fin y al cabo, buscamos probar lo que variadas fuentes nos han dicho que es verdad (como el profesor Aquiles Yáñez, investigador de la Universidad Mayor, o Yanny Gajardo, entrenadora del equipo de Lucha Olímpica Femenina), pero demostrándolo de manera cuantitativa. 
 
 ¿Qué tipos de datos investigaremos? Todos los que podamos conseguir relacionados con el tema. Estadísticas económicas nacionales, medalleros históricos, archivos de dirección de fondos y, ojalá, datos de rendimiento detallados de los deportistas. En definitiva, todo dato de naturaleza cuantitativa que nos sirva para comparar el dinero dedicado al deporte y el desempeño del deportista de alto rendimiento de cada país. ¿Y cuáles son sus orígenes? Sobre todo, artículos, que nos llevan a los estudios que los fundamentan, y archivos de registro históricos, de los que recopilaremos medalleros, presupuestos, etc. 
 
@@ -37,9 +37,9 @@ También nos gustaría analizar una base de datos más grande, que recopile el r
 Además, buscamos tener respuestas más cercanas, por lo que esperamos poder realizar una encuesta propia, distribuida a través de los contactos deportivos que hemos podido desarrollar a lo largo de nuestras cortas carreras como periodistas. 
 
 6) ## Resultados mínimos
-Lo mínimo que se puede contar como historia con los datos obtenidos, es sobre la diferencia de logros obtenidos por los países que participan de los juegos panamericanos, y, además se puede hablar sobre la relación de los logros obtenidos, con la inversión económica de cada una de las confederaciones participantes de los juegos.  
+Lo mínimo que se puede contar como historia con los datos obtenidos, es sobre la diferencia de logros obtenidos por los países que participan de los juegos panamericanos, y, además, se puede hablar sobre la relación de los logros obtenidos con la inversión económica de cada una de las confederaciones participantes de los juegos.  
 
-Los datos que se manejan hasta el momento sirven para contar historias acerca de todo lo antes mencionado y, además, profundizar en estas. También se puede indagar en cómo se hace la repartición de fondos en el deporte nacional, y analizar si estos ingresos potencian o no, el desarrollo de los diferentes deportistas de alto rendimiento.  
+Los datos que se manejan hasta el momento sirven para contar historias acerca de todo lo antes mencionado y, además, profundizar en estas. También se puede indagar en cómo se hace la repartición de fondos en el deporte nacional, y analizar si estos ingresos potencian o no el desarrollo de los diferentes deportistas de alto rendimiento.  
 
 -¿Cuál es la federación que más invierte a nivel económico en el deporte? 
 
@@ -53,7 +53,7 @@ Los datos que se manejan hasta el momento sirven para contar historias acerca de
 
 -¿La inversión es proporcional a la obtención de resultados? 
 
-Los elementos digitales que se quisiera tener son; diferentes gráficos, que muestren diferentes comparaciones entre federaciones. Estos con el objetivo de en la historia tenga elementos que ayuden a entender las diferencias y similitudes entre las diferentes federaciones que participan en los juegos panamericanos. Además, tener tablas de valores, que muestren los logros obtenidos. Estos datos brutos ayudaran para el análisis de la confederación chilena, tanto en las inversiones, como en los logros deportivos. Videos y audios de fuentes que ayuden a enriquecer la investigación también son elementos que pueden ser muy utiles para este trabajo.   
+Los elementos digitales que se quisiera tener son; diferentes gráficos, que muestren diferentes comparaciones entre federaciones. Estos con el objetivo de en la historia tenga elementos que ayuden a entender las diferencias y similitudes entre las diferentes federaciones que participan en los juegos panamericanos. Además, tener tablas de valores, que muestren los logros obtenidos. Estos datos brutos ayudaran para el análisis de la confederación chilena, tanto en las inversiones, como en los logros deportivos. Videos y audios de fuentes que ayuden a enriquecer la investigación también son elementos que pueden ser muy útiles para este trabajo.   
 
 7) ## Base de datos inicial
 https://uccl0-my.sharepoint.com/:x:/g/personal/jorge_fuentes_uc_cl/EYmeW_AvE2BJoifocY1FogABxp-o5Y1FeixBa2VXCuPphw?e=oIg4Ks&nav=MTVfe0IxMTRBNkE5LUU4MzUtNDk5Ni04MTU3LTgwNTRCQTFGM0FGM30
@@ -90,13 +90,13 @@ Me gustaría aprender con este proyecto, el análisis de datos para una investig
 Para mí es importante analizar este tema debido a que, es necesario entender cómo funciona el   comité olímpico de chile, y los procesos que pasan los diferentes deportistas para llegar a las competencias.  
 
 ### Agustín Monsalve: 
-* Para mí lo relevante del proyecto tiene que ver con mostrar de manera cuantitativa un problema que hace años viene siendo señalado por las y los deportistas chilenos, sobre todo de cara a una importante competencia de la que somos anfitriones.
+* Para mi, lo relevante del proyecto tiene que ver con mostrar de manera cuantitativa un problema que hace años viene siendo señalado por las y los deportistas chilenos, sobre todo de cara a una importante competencia de la que somos anfitriones.
 
 *  Con esto espero contar la historia de los deportistas de elite que nos representan internacionalmente y los estragos que conlleva serlo, para que las autoridades tomen acción o hasta el mundo privado pueda aportar soluciones, como con un redireccionamiento o reorganización de los recursos públicos, mejores y más profesionales que los entrenen para que no deban, en muchos casos, entrenar fuera de nuestro país, investigaciones policiales por posibles desvíos ilícitos de fondos públicos a nuestros deportistas, etc.
 
 * IDEAS
 
--Realizar un sitio web con artículos que mezclen reportajes audiovisuales de deportistas profesionales chilen@s que denuncien problemáticas en su area deportiva a modo de caso ejemplificador, acompañado de gráficas que demuestren la denuncia por parte de otros de sus compañer@s y la cantidad de bienes invertida en esa área deportiva.
+-Realizar un sitio web con artículos que mezclen reportajes audiovisuales de deportistas profesionales chilen@s que denuncien problemáticas en su área deportiva a modo de caso ejemplificador, acompañado de gráficas que demuestren la denuncia por parte de otros de sus compañer@s y la cantidad de bienes invertida en esa área deportiva.
 
 -Realizar artículos escritos acompañados de gráficas.
 
