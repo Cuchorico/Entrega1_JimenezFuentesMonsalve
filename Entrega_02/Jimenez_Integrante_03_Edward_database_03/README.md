@@ -1,0 +1,1 @@
+Selecione una base de datos de oficial de gastos de cuba en deporte, luego estos ingresos que estan en pesos cubanos los transforme a pesos chilenos, multiplique la cantidad por 1.000.000 ya que estan en millones de pesos cubanos, y luego el resultado lo multiplica por 37.73 que es el valor del cambio oficial del peso cubano. 
