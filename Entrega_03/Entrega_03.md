@@ -2,11 +2,14 @@
 
 ### [Videopresentación]()
 
+
 ### [Presentación PDF](https://acrobat.adobe.com/id/urn:aaid:sc:US:0d09dfda-c143-4363-b17f-b179f2d903a0)
+
 
 ### Antecedentes:
 
 [Sitio web oficial Corporación Santiago 2023](https://santiago2023.org/es)
+
 
 ### Referentes:
 
@@ -58,6 +61,9 @@ Tal vez (sólo tal vez) busca recibir el impulso necesario para internarse de ll
 [Mapa de Empatía] (https://www.canva.com/design/DAFxwyeMUcE/7BIJdl6DruLsR9wn4Lz0sw/edit?utm_content=DAFxwyeMUcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 Elegimos estos tres perfiles de usuarios debido a que creemos que son nuestro principal público objetivo: La gente ociosa a la que le interesan los temas deportivos, la gente que ve a los Juegos Panamericanos de Santiago 2023 como una oportunidad única y la gente que requiere de la información que planeamos presentar por razones académicas o investigativas. Creemos que nuestro tema se puede aplicar a la perfección a esos tres tipos de personas, pues mezcla el mundo del espectáculo deportivo con el del periodismo informativo duro, por lo que se vuelve un tema efectivo tanto para quienes buscan pasar el rato informándose como para quienes requieren de datos más poderosos. 
+
+
+[Aquí adjuntamos sus respectivos User Journey maps](https://uccl0-my.sharepoint.com/:f:/g/personal/agustn_monsalve_uc_cl/EqMMqjMi7QhNrz1mF8kl-SUByUPsvNeOxdY3pn3np_BBaQ?e=BI1Kjy)
 
  
 
