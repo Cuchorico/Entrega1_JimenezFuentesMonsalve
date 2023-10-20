@@ -30,7 +30,7 @@ Este año está emocionado por los Juegos Panamericanos. La diversidad de deport
 
 Busca algo nuevo, empaparse de los Juegos y conocer muchos de sus detalles. No tiene dificultades con la tecnología, pero espera encontrar información muy interesante expuesta de una manera que no le sea complicada de entender. 
 
-[Mapa de Empatía Alonso] (https://www.canva.com/design/DAFxw56OAiM/F9VbPnmP1c2_coDJ2A9Wiw/edit?utm_content=DAFxw56OAiM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[Mapa de Empatía Alonso](https://www.canva.com/design/DAFxw56OAiM/F9VbPnmP1c2_coDJ2A9Wiw/edit?utm_content=DAFxw56OAiM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
  
 
@@ -44,7 +44,7 @@ Lo que sí disfruta es indagar sobre su pasión, volverse el futbolero más expe
 
 Lo que busca Andrés es ocio, conocer la información, analizarla, pero no de una manera pesada que le signifique un esfuerzo intelectual importante. Si no le llama la atención el reportaje, no lo leerá. 
 
-[Mapa de Empatía Andrés] (https://www.canva.com/design/DAFxw-w7sAY/ZCaaGB_TeSVW5uVFvQa5iw/edit?utm_content=DAFxw-w7sAY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[Mapa de Empatía Andrés](https://www.canva.com/design/DAFxw-w7sAY/ZCaaGB_TeSVW5uVFvQa5iw/edit?utm_content=DAFxw-w7sAY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
  
 
@@ -58,10 +58,9 @@ No es apasionada de los deportes (a pesar de que le gusta jugar voleibol), pero,
 
 Tal vez (sólo tal vez) busca recibir el impulso necesario para internarse de lleno en el tema e investigar más a fondo esas situaciones. 
 
-[Mapa de Empatía] (https://www.canva.com/design/DAFxwyeMUcE/7BIJdl6DruLsR9wn4Lz0sw/edit?utm_content=DAFxwyeMUcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[Mapa de Empatía](https://www.canva.com/design/DAFxwyeMUcE/7BIJdl6DruLsR9wn4Lz0sw/edit?utm_content=DAFxwyeMUcE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 Elegimos estos tres perfiles de usuarios debido a que creemos que son nuestro principal público objetivo: La gente ociosa a la que le interesan los temas deportivos, la gente que ve a los Juegos Panamericanos de Santiago 2023 como una oportunidad única y la gente que requiere de la información que planeamos presentar por razones académicas o investigativas. Creemos que nuestro tema se puede aplicar a la perfección a esos tres tipos de personas, pues mezcla el mundo del espectáculo deportivo con el del periodismo informativo duro, por lo que se vuelve un tema efectivo tanto para quienes buscan pasar el rato informándose como para quienes requieren de datos más poderosos. 
-
 
 [Aquí adjuntamos sus respectivos User Journey maps](https://uccl0-my.sharepoint.com/:f:/g/personal/agustn_monsalve_uc_cl/EqMMqjMi7QhNrz1mF8kl-SUByUPsvNeOxdY3pn3np_BBaQ?e=BI1Kjy)
 
