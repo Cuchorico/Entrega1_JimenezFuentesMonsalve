@@ -1,3 +1,3 @@
-* Video-presentación[]
+* Video-presentación[https://youtu.be/wmo9q8Gz86A]
 * PDF[https://acrobat.adobe.com/id/urn:aaid:sc:US:b675f789-132b-416c-b560-9dcb72a50f9b]
 * En esta entrega, a partir de fuentes públicas tanto nacionales como internacionales, obtenemos y filtramos datos en torno a gastos presupuestarios deportivos anuales de Cuba y Chile, y de rendimiento en ese mismo período, con  medalleros de competiciones continentales y globales. Todo para saber si la situación de financiamiento del deporte de elite en Chile merece un cambio urgente, de acuerdo a los estándares internacionales.
