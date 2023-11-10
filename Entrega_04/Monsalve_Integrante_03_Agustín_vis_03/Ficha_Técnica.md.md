@@ -32,3 +32,8 @@ plt.plot(valoresX, valoresAY, "o--g" )
 plt.plot(valoresX, valoresBY, "s:b" )
 plt.legend(["Presupuesto IND (miles de $US)", "Ejecución o gasto (miles de $US)"])
 plt.show()
+
+
+## Observaciones
+
+La base de datos fue elaborada en base a diversas fuentes ([un estudio publicado en septiembre sobre los presupuestos del IND](https://acrobat.adobe.com/id/urn:aaid:sc:US:22870d75-5f48-408b-b38b-5148ce5ed4fa), [el Portal de Transparencia](https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=BA002), la [Biblioteca Nacional del Congreso](https://www.bcn.cl/presupuesto/periodo/2023/partida/26) para conocer el presupuesto del IND de 2023, y [la página web de la Dirección de Presupuestos](https://www.dipres.gob.cl/597/w3-multipropertyvalues-22291-35324.html)).
