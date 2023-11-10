@@ -8,4 +8,4 @@ Lo interesante es lo que ocurre tras el año 2020, ya finalizados los Juegos Pan
 
 Más interesante aún es preguntarse, ¿qué pasará con la financiación del deporte en Chile? ¿Volverá a la extrema austeridad previa al 2020?
 
-![Ejecución Presupuestaria Anual del IND](/Visualización/Vis_01.jpg)
+![Ejecución Presupuestaria Anual del IND](/Visualización/Vis_01)
