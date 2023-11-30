@@ -2,11 +2,11 @@ body{
 	background-color: #060608
 }
 
-.image-container img{
+image-container{
 	align: center;
 }
 
-.cabecera{
+cabecera{
 	text-color: #8a2a20;
 	 text-align: left;	
 }
