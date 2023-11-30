@@ -1,9 +1,11 @@
 head{
-	background-color: black
+	background-color: lightblack;
+	text align: left;
+	text color: #a88900;
 }
 
 body{
-	background-color: black
+	background-color: lightblack
 }
 
 footer{
