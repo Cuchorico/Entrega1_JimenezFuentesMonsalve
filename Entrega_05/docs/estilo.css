@@ -1,14 +1,17 @@
-head{
-	background-color: lightblack;
-	text align: left;
-	text color: #a88900;
+body{
+	background-color: #060608
 }
 
-body{
-	background-color: lightblack
+cabecera{
+	text-decoration-color: #8a2a20;
+	text-align: left;
+}
+
+image-container{
+	text-align: center;
 }
 
 footer{
-
+	background-color: #005858
 }
 
