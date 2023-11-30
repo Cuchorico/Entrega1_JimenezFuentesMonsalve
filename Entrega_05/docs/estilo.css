@@ -1,9 +1,9 @@
 body{
-	background-color: #060608
+	background-color: #060608;
+	margin-top: 0 px;
 }
 
 image-container {
-  margin-top: 0 px;
   position: relative;
   display: inline-block;
 }
@@ -17,13 +17,12 @@ image-container {
 .cabecera {
   position: absolute;
   top: 50%; 
-  left: 50%; 
-  transform: translate(-50%, -50%); 
-  background-color: #000000; 
-  color: #fff; 
+  left: 20%; 
+  transform: translate(-50%, -50%);  
+  color: #8A2A20; 
   padding: 10px 20px; 
-  font-size: 20px; 
-  text-align: center;
+  font-size: 50px; 
+  text-align: left;
 
 footer{
 	background-color: #005858
