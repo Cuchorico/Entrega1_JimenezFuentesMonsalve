@@ -3,6 +3,7 @@ body{
 }
 
 image-container {
+  margin-top: 0 px;
   position: relative;
   display: inline-block;
 }
@@ -11,7 +12,6 @@ image-container {
   display: block;
   width: 100%;
   height: auto;
-  margin-top: 0 px
 }
 
 .cabecera {
