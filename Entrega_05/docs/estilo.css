@@ -5,13 +5,13 @@ body{
 image-container {
   position: relative;
   display: inline-block;
-  margin-top: 0 px
 }
 
 .image-container img {
   display: block;
   width: 100%;
   height: auto;
+  margin-top: 0 px
 }
 
 .cabecera {
