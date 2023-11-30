@@ -2,13 +2,13 @@ body{
 	background-color: #060608
 }
 
-cabecera{
-	text-decoration-color: #8a2a20;
-	text-align: left;
+.image-container img{
+	align: center;
 }
 
-.image-container{
-	align: center;
+.cabecera{
+	text-color: #8a2a20;
+	 text-align: left;	
 }
 
 footer{
