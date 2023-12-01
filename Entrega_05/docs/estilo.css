@@ -85,7 +85,8 @@ h2, a{
   color: rgba(255, 255, 255, 0.8);
   margin: 10px 0px;
 }
-.card:hover .content{
+
+div#card:hover div#content{
   opacity: 1;
 }
 
@@ -99,7 +100,7 @@ img{
 }
 
 h3{
-	color: white;
+	color: black;
 	align-items: center;
 }
 
