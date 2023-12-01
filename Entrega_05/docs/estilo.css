@@ -18,13 +18,13 @@ image-container {
 
 .cabecera {
   position: absolute;
-  top: 30%; 
+  top: 50%; 
   left: 10%;
   right: 77%;
   transform: translate(-50%, -50%);  
   color: #8A2A20; 
   padding: 10px 20px; 
-  font-size: 70px; 
+  font-size: 100px; 
   text-align: justify;
 }
 .texto_introductorio {
