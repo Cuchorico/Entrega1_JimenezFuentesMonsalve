@@ -5,7 +5,7 @@
 }
 
 body{
-	background-color: #060608;
+	background-color: #fff;
 }
 
 image-container {
@@ -79,4 +79,13 @@ div#card{
   overflow: hidden;
   background: #005858;
   box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
+  cursor: default;
+  transition: all 400ms ease;
 }
+
+div#card:hover{
+box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+
+}
+
+
