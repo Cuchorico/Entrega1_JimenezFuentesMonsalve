@@ -47,6 +47,11 @@ image-container {
 .texto{
 	background-color: #060608;
 	font-family: DIN Medium;
+
+}
+
+p{
+text-decoration-color: white;
 }
 
 footer{
