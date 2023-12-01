@@ -12,6 +12,8 @@ image-container {
   display: block;
   width: 100%;
   height: auto;
+  padding: 0px;
+  margin: 0px
 }
 
 .cabecera {
