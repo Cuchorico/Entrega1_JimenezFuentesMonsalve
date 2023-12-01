@@ -83,5 +83,3 @@ Decidimos crear unos prototipos que sigan una línea central, pero que permiten 
 Su ordenamiento se basa en un avance de la información más general a la más particular, partiendo del isologotipo y una breve explicación de la temática general que abarcará el reportaje web para luego pasar a los datos graficados que cubren las problemáticas de financiamiento a nivel nacional de los deportistas de elite, y, finalmente, a las entrevistas a deportistas que grafican las carencias por cada federación deportiva respectiva. 
 
  
-
- 
