@@ -44,7 +44,7 @@ image-container {
 
 .space{
 	background-color: #070608;
-	min-height: 150vh;
+	min-height: 90vh;
 
 }
 
@@ -116,7 +116,7 @@ h3{
 	align-items: center;
 }
 
-footer{
+footer {
 	background-color: #005858;
 	padding: 30px;
 	margin: 0px;
