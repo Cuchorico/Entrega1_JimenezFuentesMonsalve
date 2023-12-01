@@ -40,7 +40,7 @@ image-container {
 
 .space{
 	background-color: #060608;
-	min-height: 50vh;
+	min-height: 150vh;
 
 }
 
@@ -48,8 +48,8 @@ image-container {
 	background-color: #060608;
 	font-family: unset;
 	color: white;
-	left: 25%;
-  right: 25%;
+	left: 50%;
+  right: 50%;
 }
 
 img{
