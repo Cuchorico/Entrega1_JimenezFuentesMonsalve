@@ -1,20 +1,13 @@
-head{
-	margin-top: 0 px;
-}
-
 body{
-	margin-top: 0 px
 	background-color: #060608;
 }
 
 image-container {
   position: relative;
-  margin-top: 0 px;
   display: inline-block;
 }
 
 .image-container img {
-  margin-top: 0 px;
   display: block;
   width: 100%;
   height: auto;
@@ -33,6 +26,5 @@ image-container {
 
 footer{
 	background-color: #005858;
-	height: 50%;
 }
 
