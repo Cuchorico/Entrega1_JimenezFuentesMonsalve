@@ -1,5 +1,5 @@
 body{
-	background-color: #fff;
+	background-color: #070608;
 }
 
 image-container {
@@ -14,6 +14,9 @@ image-container {
   display: block;
   width: 100%;
   height: auto;
+  padding: 0px;
+  margin-top: 0px;
+  border-top: 0px;
 }
 
 .cabecera {
@@ -40,18 +43,26 @@ image-container {
 }
 
 .space{
-	background-color: #fff;
-	min-height: 150vh;
+	background-color: #070608;
+	min-height: 90vh;
 
 }
 
 .texto{
-	background-color: #fff;
+	background-color: #070608;
 	font-family: unset;
 	color: white;
 	align-items: center;
 }
 
+<<<<<<< HEAD
+image-container{
+	align-items: center;
+}
+
+h2{
+	color: white;
+=======
 section#Tarjetas{
   display: flex;
   align-items: center;
@@ -101,13 +112,18 @@ img{
 
 h3{
 	color: black;
+>>>>>>> b87334a7de2519f6c443f395e8e103d0b077fcda
 	align-items: center;
 }
 
+<<<<<<< HEAD
 footer{;
   display: flex;
   align-items: center;
   justify-content: center;
+=======
+footer {
+>>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
 	background-color: #005858;
 	padding: 30px;
 	margin: 0px;
