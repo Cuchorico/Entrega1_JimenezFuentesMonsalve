@@ -46,7 +46,7 @@ image-container {
 
 .texto{
 	background-color: #060608;
-	font-family: fantasy;
+	font-family: unset;
 	color: white;
 }
 
