@@ -1,53 +1,5 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body{
-	background-color: #fff;
-
-}
-
-section#Tarjetas{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  background-color: 005858;
-}
-
-div#card{
-  width: 200px;
-  height: 300px;
-  border-radius: 5px;
-  background: var(--i);
-  background-size: cover;
-  box-shadow: 3px 5px 5px rgba(3, 32, 51, 0.8);
-  margin: 20px;
-  overflow: hidden;
-}
-
-div#content{
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  background: rgba(0, 0, 0, 0.4);
-  opacity: 0;
-  transition: 0.5s;
-}
-
-h2, a{
-  color: rgba(255, 255, 255, 0.8);
-  margin: 10px 0px;
-}
-
-div#card:hover div#content{
-  opacity: 1;
-
+	background-color: #060608;
 }
 
 image-container {
@@ -86,24 +38,21 @@ image-container {
 	text-align: left;
 }
 
+.space{
+	background-color: #060608;
+	min-height: 100vh;
+
+}
+
+.texto{
+	background-color: #060608;
+	font-family: DIN Medium;
+}
+
 footer{
 	background-color: #005858;
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
-}
-
-
-
-.TextoDatos {
-  color: #A88900;
-  position: absolute;
-  top: 60%; 
-  left: 81%; 
-  transform: translate(-50%, -50%);  
-  padding: 10px 20px; 
-  font-size: 20px; 
-  text-align: left;
-
 }
 
