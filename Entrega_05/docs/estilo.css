@@ -18,23 +18,24 @@ image-container {
 
 .cabecera {
   position: absolute;
-  top: 30%; 
-  left: 20%; 
+  top: 50%; 
+  left: 10%;
+  right: 77%;
   transform: translate(-50%, -50%);  
   color: #8A2A20; 
   padding: 10px 20px; 
-  font-size: 50px; 
-  text-align: left;
+  font-size: 100px; 
+  text-align: justify;
 }
 .texto_introductorio {
-	color: #f4d54c;
+	color: #A88900;
 	position: absolute;
-	top: 80%; 
-	left: 80%; 
+	top: 60%; 
+	left: 81%; 
 	transform: translate(-50%, -50%);  
 	padding: 10px 20px; 
 	font-size: 20px; 
-	text-align: left;
+	text-align: right;
 }
 
 footer{
