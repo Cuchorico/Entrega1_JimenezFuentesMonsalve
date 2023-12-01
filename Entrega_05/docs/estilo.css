@@ -6,6 +6,15 @@
 
 body{
 	background-color: #fff;
+
+}
+
+section#Tarjetas{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: 005858;
 }
 
 image-container {
@@ -64,28 +73,4 @@ footer{
   text-align: left;
 
 }
-
-div#conteiner{
-  width: 100%;
-  display: flex;
-  max-width: 1100px;
-
-}
-
-div#card{
-  width: 100%;
-  margin: 20px;
-  border-radius: 6px;
-  overflow: hidden;
-  background: #005858;
-  box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
-  cursor: default;
-  transition: all 400ms ease;
-}
-
-div#card:hover{
-box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
-
-}
-
 
