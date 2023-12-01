@@ -55,12 +55,64 @@ image-container {
 	align-items: center;
 }
 
+<<<<<<< HEAD
 image-container{
 	align-items: center;
 }
 
 h2{
 	color: white;
+=======
+section#Tarjetas{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: 005858;
+}
+
+div#card{
+  width: 200px;
+  height: 300px;
+  border-radius: 5px;
+  background: var(--i);
+  background-size: cover;
+  box-shadow: 3px 5px 5px rgba(3, 32, 51, 0.8);
+  margin: 20px;
+  overflow: hidden;
+}
+div#content{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  transition: 0.5s;
+}
+h2, a{
+  color: rgba(255, 255, 255, 0.8);
+  margin: 10px 0px;
+}
+
+div#card:hover div#content{
+  opacity: 1;
+}
+
+div#card:hover{
+box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
+}
+
+
+img{
+	align-items: center;
+}
+
+h3{
+	color: black;
+>>>>>>> b87334a7de2519f6c443f395e8e103d0b077fcda
 	align-items: center;
 }
 
