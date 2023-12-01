@@ -1,20 +1,5 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body{
-	background-color: #fff;
-
-}
-
-section#Tarjetas{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  background-color: 005858;
+	background-color: #060608;
 }
 
 image-container {
@@ -53,24 +38,23 @@ image-container {
 	text-align: left;
 }
 
+.space{
+	background-color: #060608;
+	min-height: 100vh;
+
+}
+
+.texto{
+	background-color: #060608;
+	font-family: sans-serif;
+	color: white;
+}
+
+
 footer{
 	background-color: #005858;
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
-}
-
-
-
-.TextoDatos {
-  color: #A88900;
-  position: absolute;
-  top: 60%; 
-  left: 81%; 
-  transform: translate(-50%, -50%);  
-  padding: 10px 20px; 
-  font-size: 20px; 
-  text-align: left;
-
 }
 
