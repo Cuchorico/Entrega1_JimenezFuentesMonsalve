@@ -5,7 +5,6 @@ body{
 image-container {
   position: relative;
   display: inline-block;
-  margin-top: 0px;
 }
 
 .image-container img {
@@ -13,7 +12,7 @@ image-container {
   width: 100%;
   height: auto;
   padding: 0px;
-
+  margin-top: 0px;
 }
 
 .cabecera {
