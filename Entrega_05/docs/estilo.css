@@ -48,8 +48,7 @@ image-container {
 	background-color: #060608;
 	font-family: unset;
 	color: white;
-	left: 50%;
-  right: 50%;
+	align: center
 }
 
 img{
