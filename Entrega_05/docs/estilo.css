@@ -48,16 +48,16 @@ image-container {
 	background-color: #060608;
 	font-family: unset;
 	color: white;
-	align: center
+	align-items: center;
 }
 
 img{
-	align: center;
+	align-items: center;
 }
 
 h2{
 	color: white;
-	align: center;
+	align-items: center;
 }
 
 footer{
