@@ -29,8 +29,8 @@ image-container {
 .texto_introductorio {
 	color: #f4d54c;
 	position: absolute;
-	top: 50%; 
-	left: 80%; 
+	top: 60%; 
+	left: 85%; 
 	transform: translate(-50%, -50%);  
 	padding: 10px 20px; 
 	font-size: 20px; 
