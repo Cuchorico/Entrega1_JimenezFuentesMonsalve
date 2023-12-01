@@ -163,3 +163,9 @@ section#Gráficos2{
 
 }
 
+.fade {
+  margin: 50px;
+  padding: 50px;
+  background-color: #070608;
+  opacity: 1;
+}
