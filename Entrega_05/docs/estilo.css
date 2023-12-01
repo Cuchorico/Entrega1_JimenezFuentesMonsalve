@@ -55,13 +55,6 @@ image-container {
 	align-items: center;
 }
 
-.fade {
-  margin: 50px;
-  padding: 50px;
-  background-color: #070608;
-  opacity: 1;
-}
-
 <<<<<<< HEAD
 image-container{
 	align-items: center;
@@ -123,12 +116,50 @@ h3{
 	align-items: center;
 }
 
-
-}
-
+<<<<<<< HEAD
+footer{;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+=======
 footer {
+>>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
 	background-color: #005858;
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
+}
+
+h3#Contacto1{
+  margin: 50px;
+}
+h3#Contacto2{
+  margin: 50px;
+}
+h3#Contacto3{
+  margin: 50px;
+}
+
+section#Gráficos{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+img#Jorge1{
+  margin: 80px;
+}
+
+img#Jorge2{
+  margin: 80px;
+}
+
+section#Gráficos2{
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+}
 
