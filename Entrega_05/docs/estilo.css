@@ -51,9 +51,12 @@ image-container {
 }
 
 img{
-	align-content: center;
+	align: center;
 }
 
+h2{
+	text-decoration-color: white;
+}
 
 footer{
 	background-color: #005858;
