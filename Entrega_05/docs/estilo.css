@@ -19,7 +19,7 @@ image-container {
 .cabecera {
   position: absolute;
   top: 30%; 
-  left: 20%;
+  left: 10%;
   right: 77%;
   transform: translate(-50%, -50%);  
   color: #8A2A20; 
