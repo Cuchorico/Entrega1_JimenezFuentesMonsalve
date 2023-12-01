@@ -1,5 +1,5 @@
 body{
-	background-color: #060608;
+	background-color: #fff;
 }
 
 image-container {
@@ -27,6 +27,7 @@ image-container {
   font-size: 100px; 
   text-align: justify;
 }
+
 .texto_introductorio {
 	color: #A88900;
 	position: absolute;
@@ -39,13 +40,13 @@ image-container {
 }
 
 .space{
-	background-color: #060608;
+	background-color: #fff;
 	min-height: 150vh;
 
 }
 
 .texto{
-	background-color: #060608;
+	background-color: #fff;
 	font-family: unset;
 	color: white;
 	left: 50%;
