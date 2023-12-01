@@ -49,7 +49,7 @@ image-container {
 	background-color: #fff;
 	font-family: unset;
 	color: white;
-	align: center
+	align-items: center;
 }
 
 section#Tarjetas{
@@ -95,12 +95,12 @@ box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
 
 
 img{
-	align: center;
+	align-items: center;
 }
 
 h2{
 	color: white;
-	align: center;
+	align-items: center;
 }
 
 footer{
