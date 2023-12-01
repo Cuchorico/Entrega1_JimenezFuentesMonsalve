@@ -121,10 +121,11 @@ footer{;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #005858;
 =======
 footer {
 >>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
-	background-color: #005858;
+	
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
