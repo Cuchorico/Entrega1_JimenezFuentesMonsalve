@@ -24,7 +24,7 @@ image-container {
   color: #8A2A20; 
   padding: 10px 20px; 
   font-size: 50px; 
-  text-align: left;
+  text-align: justify;
 }
 .texto_introductorio {
 	color: #f4d54c;
@@ -34,7 +34,7 @@ image-container {
 	transform: translate(-50%, -50%);  
 	padding: 10px 20px; 
 	font-size: 20px; 
-	text-align: left;
+	text-align: justify;
 }
 
 footer{
