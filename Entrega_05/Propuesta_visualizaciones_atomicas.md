@@ -2,7 +2,7 @@
 
 1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes 
 
-<image src="./images/Gráfico de Ejecución presupuestaria IND.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
+<image src="./Gráfico de Ejecución presupuestaria IND.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
 2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto
 
