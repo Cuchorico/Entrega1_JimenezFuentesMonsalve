@@ -8,5 +8,9 @@
 
 3) A través de la relación entre fondos invertidos y medallas ganadas, aunado al testimonio y análisis de expertos, como el director del Centro de Estudios Avanzados de Fisiología del Ejercicio de la Universidad Mayor, el profesor Aquiles Yáñez, o la académica USACH y ex subsecretaria del Deporte, Nicole Sáez, cuyas entrevistas planeamos profundizar en la sección Expertos, llegaremos a una conclusión. Esta es que el reclamo de los atletas chilenos es legítimo y sustentado en los datos empíricos, y que se deben implementar políticas públicas para solucionarlo.
 
-##
+## Diseño de Información e Interacción
+
+Como ya mencionamos, la información se mostrará progresivamente con el scrolling, pero los usuarias podrán adelantar secciones (Gráficas, Expertos, Deportistas y Volver al Inicio) por medio del índice interactivo que estará tanto al principio del relato como al final de cada sección.
+
+
 
