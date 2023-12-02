@@ -1,3 +1,5 @@
+# DISEÑO DE NARRATIVA, INFORMACIÓN E INTERACCIÓN
+
 ## Propuesta de narrativa en tres actos
 
 1) Los deportistas profesionales de Chile hace mucho reclaman por una falta de apoyo económico para realizar sus entrenamientos y otros tipos de preparación, [como la psicológica](https://kilometrocero.cl/la-disciplina-de-la-mente-el-invisible-trabajo-psicologico-detras-de-los-panamericanos/), por ejemplo. Esto volvió a darse con algunas declaraciones de atletas nacionales en los Juegos Panamericanos Santiago 2023 ([Mailén Flores, Agustín Vejar](https://radio.uchile.cl/2023/11/06/los-proximos-desafios-del-patinaje-artistico-ha-crecido-de-nivel-pero-falta-apoyo-economico-porque-tambien-somos-deportistas/) y [Yolanda Muñóz](https://www.biobiochile.cl/especial/panamericanos-santiago-2023/noticias/2023/10/31/el-lamento-de-esgrimista-chilena-por-no-quedar-entre-mejores-perdera-beca-y-evalua-seguir-en-deporte.shtml)). Sin embargo, nunca se ha cuantificado esta carencia que reclaman los representantes olímpicos chilenos.
