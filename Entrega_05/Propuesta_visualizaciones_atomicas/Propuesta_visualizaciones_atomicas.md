@@ -16,7 +16,6 @@ Este gráfico nos servirá para introducir la historia, ya que instaura una prob
 **Código:**
 
 import matplotlib.pyplot as plt
-
 valoresAY = [156471,141443,149352,132558,136003,148310,152650,261005,528688]
 valoresBY = [27248,28766,38861,28053,20926,116603,142177,258068,488494]
 valoresX = [2015,2016,2017,2018,2019,2020,2021,2022,2023]
