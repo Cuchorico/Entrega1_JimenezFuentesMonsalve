@@ -11,7 +11,7 @@ Este gráfico nos servirá para introducir la historia, ya que instaura una prob
 
 - **Presupuesto IND (miles de $US):** corresponde a los fondos totales otorgados al Instituto Nacional de Deportes cada año por la Ley de Presupuestos propuesta por el Poder Ejecutivo y aprobada en el Congreso. Esto expresado en dólares para hacer comparables los datos a los de otros países. Su fluctuación en la gráfica nos indicará que la inyección de fondos al IND aumentó fuerte y progresivamente desde 2020 hasta 2023, en preparación a los Juegos Panamericanos de Santiago 2023, para gastos operacionales y de infraestructura.
 
--**Ejecución o gasto (en miles de $US y hasta sept. de 2023):** los gastos efectivamente extraídos de los fondos totales del presupuesto anual. Con su fluctuación en la tabla queremos indicar que el gasto era mínimo antes del comienzo de la preparación para los Panamericanos Santiago 2023, que comenzó en 2020. Esto da una pista de por qué el reclamo de falta de apoyo económico de los deportistas ha rondado por mucho tiempo. Sin embargo, esta ejecución debe ser desglosada para saber cuanta va dirigida directamente a los atletas (federaciones), lo cual se abarca en el siguiente gráfico y obliga a avanzar en la narrativa.
+- **Ejecución o gasto (en miles de $US y hasta sept. de 2023):** los gastos efectivamente extraídos de los fondos totales del presupuesto anual. Con su fluctuación en la tabla queremos indicar que el gasto era mínimo antes del comienzo de la preparación para los Panamericanos Santiago 2023, que comenzó en 2020. Esto da una pista de por qué el reclamo de falta de apoyo económico de los deportistas ha rondado por mucho tiempo. Sin embargo, esta ejecución debe ser desglosada para saber cuanta va dirigida directamente a los atletas (federaciones), lo cual se abarca en el siguiente gráfico y obliga a avanzar en la narrativa.
 
 **Código:**
 
@@ -35,6 +35,7 @@ plt.show()
 - https://transparencialobby.ind.cl/activa/presupuestoejecucion/2022/ejecucion/diciembre.pdf
 - https://www.dipres.gob.cl/597/articles-323170_doc_pdf.pdf
 
+
 2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto
 
 
@@ -43,7 +44,7 @@ plt.show()
 **Código:**
 
 **Bases de datos utilizadas:**
--
+
 
 3) ### Gráfico de inversión anual en deportismo de alto rendimiento de primeros 8 lugares de Santiago 2023
 
@@ -54,7 +55,7 @@ plt.show()
 **Código:**
 
 **Bases de datos utilizadas:**
--
+
 
 4) ### Gráfico del total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 y comparando su rendimiento con el de Lima 2019
 
@@ -82,4 +83,3 @@ ax.set_xticklabels(etiquetas)
 plt.legend()
 
 **Bases de datos utilizadas:**
--
