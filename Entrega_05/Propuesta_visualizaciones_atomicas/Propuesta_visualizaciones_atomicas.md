@@ -1,8 +1,8 @@
 # PROPUESTAS DE VISUALIZACIÓN ATÓMICA
 
-1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes 
+1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes (Agustín)
 
-<image src="./Gráfico de Ejecución presupuestaria IND.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
+<image src="./Gráfico 1.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
 **Explicación:**
 Este gráfico nos servirá para introducir la historia, ya que instaura una problemática: desde 2015 hasta 2019, el IND gastó menos de un tercio de los fondos disponibles ¿Dónde están el resto de los fondos ahora? ¿Se ejecutaron? Se preguntará el lector. Aunque, desde 2020 hasta 2023 esto cambió, porque el gráfico indica que la ejecución de fondos se comenzó a acercar al total disponible anualmente. Sin embargo, esto también plantea la pregunta de si, con el aumento del presupuesto y de la cantidad de fondos usados, también aumentó el dinero destinado a los deportistas y sus federaciones, lo que introduce la temática del siguiente gráfico.
@@ -35,15 +35,46 @@ plt.show()
 - https://www.dipres.gob.cl/597/articles-323170_doc_pdf.pdf
 
 
-2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto
+2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto (Agustín)
 
 <image src="./Gráfico 2.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
 **Explicación:**
 
+Este gráfico intenta visualizar qué tanto del gasto efectivamente ejercido del presupuesto total va a las Federaciones Deportivas. Lo que se puede concluir a partir de la fluctuación de las barras de las variables es que: 1) La correspondiente a los Gastos Totales del IND aumentó exponencialmente tras el año 2021; 2) Lo mismo ocurrió con la de los Juegos Para y Panamericanos, correspondiente a los gastos operacionales e infraestructurales ejercidos por el IND en Santiago 2023; 3) La única barra que se mantuvo constante y muy baja fue la de Federaciones Deportivas, dinero que, en teoría, debería ser el que va más directamente a los deportistas profesionales chilenos (infraestructura o equipos para entrenar, apoyo técnico y psicológico, etc.)
+
 **Código:**
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+N = 5
+ind = np.arange(N)
+width = 0.12
+
+xvals = [116122,103135,127324,235571,422532]
+bar1 = plt.bar(ind, xvals, width, color = '#BA2A20')
+
+yvals = [5021,6148,10339,49978,209213]
+bar2 = plt.bar(ind+width, yvals, width, color="#ABB900")
+
+zvals = [18167,16594,20328,22721,17699]
+bar3 = plt.bar(ind+width*2, zvals, width, color = '#004BAB')
+
+plt.xlabel('Año')
+plt.ylabel('En millones de pesos (CLP)')
+plt.title('Desglose de Ejecución Presupuestaria del IND')
+
+plt.xticks(ind+width,["2019","2020","2021","2022","2023 (hasta sept.)"])
+plt.legend( (bar1, bar2, bar3), ("Gasto Total","En Para y Panamericanos","En Federaciones Deportivas"))
+plt.show()
+
 **Bases de datos utilizadas:**
+- https://www.dipres.gob.cl/597/articles-323170_doc_pdf.pdf
+- https://transparencialobby.ind.cl/activa/presupuestoejecucion/2022/ejecucion/diciembre.pdf
+- http://www.dipres.cl/597/articles-264000_doc_pdf.pdf
+- https://www.dipres.gob.cl/597/articles-215418_doc_pdf.pdf
+- https://www.dipres.gob.cl/597/articles-199366_doc_pdf.pdf
 
 
 3) ### Gráfico de inversión anual en deportismo de alto rendimiento de primeros 8 lugares de Santiago 2023
@@ -107,11 +138,14 @@ file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuente
 
 
 
+
 4) ### Gráfico del total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 y comparando su rendimiento con el de Lima 2019
 
 <image src="./Gráfico Jorge.png" alt="Total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 comparado su rendimiento con Lima 2019">
 
 **Explicación:**
+
+Este gráfico compara las medallas obtenidas por los ocho primeros lugares de Santiago 2023 en los Juegos Panamericanos de este año con las obtenidas en Lima 2019. Sirve para comparar qué tanto han avanzado estos ocho países durante los últimos cuatro años, para así evidenciar que Chile se ha quedado estancado en el octavo lugar, a pesar de mejorar en sus medallas. Es la forma más objetiva de mostrar el rendimiento deportivo de cada país.
 
 **Código:**
 
@@ -131,5 +165,3 @@ ax.set_ylabel('Medallas')
 ax.set_xticks(co)
 ax.set_xticklabels(etiquetas)
 plt.legend()
-
-**Bases de datos utilizadas:**
