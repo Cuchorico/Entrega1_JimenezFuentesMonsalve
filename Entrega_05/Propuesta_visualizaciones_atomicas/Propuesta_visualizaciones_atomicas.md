@@ -50,11 +50,61 @@ plt.show()
 
 <image src="./Grafico Edward .png" alt="Inversión anual en deportismo de alto rendimiento de primeros 8 lugares de Santiago 2023">
 
-**Explicación:**	
+**Explicación:** Este gráfico muestra el cálculo del presupuesto anual destinado a deportistas de alto rendimiento de los ocho primeros países en el medallero de los Juegos Panamericanos Santiago 2023. Las federaciones representadas en el gráfico son las de Estados Unidos, Brasil, México, Canadá, Cuba, Colombia, Argentina y Chile. Al analizar el gráfico, surgen diversas preguntas y respuestas. Una de ellas es el hecho de que la federación chilena fue la que menos presupuesto invirtió en sus deportistas de 2019 a 2021. Se observa un aumento significativo en 2022, pero esto tiene una razón: el presupuesto incluyó los fondos invertidos en la realización de los Juegos Panamericanos Santiago 2023, lo que explica el notable aumento de un año a otro. Como consecuencia, se realizará otro gráfico desglosando los montos distribuidos en 2023 para conocer la inversión real en deportes de alto rendimiento.
 
-**Código:**
+De manera similar, se concluye que Estados Unidos es, con diferencia considerable, el país que más presupuesto invierte en deportistas de alto rendimiento. Relacionándolo con otros gráficos que poseemos, donde se muestra que Estados Unidos históricamente es el principal ganador de medallas en los Juegos Panamericanos y también en los Juegos Olímpicos, llegamos a la conclusión de que su inversión monetaria se traduce en éxito deportivo.
 
-**Bases de datos utilizadas:**
+Otra variable que revela el gráfico es que en 2020 todos los presupuestos de los países disminuyeron. Este hecho genera la siguiente pregunta: ¿La pandemia del COVID-19 fue la causa de la disminución de los presupuestos de las federaciones? Trataremos de responder a esta pregunta en las siguientes entregas de este trabajo.
+
+**Código:** import matplotlib.pyplot as plt
+
+valoresAY = [1047960, 574980, 1033160, 1195090]
+valoresBY = [52545, 45010, 67209, 72708]
+valoresCY = [150385, 142607, 145974, 113471]
+valoresDY = [214732, 228010, 223248, 272484]
+valoresEY = [93067, 110607, 273298, 497105]
+valoresFY = [13967, 16610, 18843, 22047]
+valoresGY = [22952, 12934, 24458, 24001]
+valoresHY = [13499, 14564, 16441, 312674]
+valoresX = [2019, 2020, 2021, 2022]
+
+fig, ax = plt.subplots()
+
+# Líneas mejoradas con etiquetas y colores
+plt.plot(valoresX, valoresAY, "o-", label="EE.UU.", color="green")
+plt.plot(valoresX, valoresBY, "o-", label="Brasil", color="blue")
+plt.plot(valoresX, valoresCY, "o-", label="México", color="red")
+plt.plot(valoresX, valoresDY, "o-", label="Canadá", color="yellow")
+plt.plot(valoresX, valoresEY, "o-", label="Cuba", color="cyan")
+plt.plot(valoresX, valoresFY, "o-", label="Colombia", color="magenta")
+plt.plot(valoresX, valoresGY, "o-", label="Argentina", color="orange")
+plt.plot(valoresX, valoresHY, "o-", label="Chile", color="purple")
+
+# Etiquetas de los ejes y título
+plt.xlabel("Año")
+plt.ylabel("Dinero")
+plt.title("Comparación de valores por país a lo largo de los años")
+
+# Leyenda con colores correspondientes
+plt.legend()
+
+# Formato de los números en los ejes x e y y eliminación de duplicados en x
+ax.set_xticks(list(set(valoresX)))
+ax.yaxis.set_major_formatter('${x:,.0f}')
+
+# Mostrar el gráfico
+plt.show()
+
+**Bases de datos utilizadas:** file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/2019-vol3-ds6-eng.pdf 
+file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/2020-vol3-ds6-eng.pdf 
+file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/2022-vol3-ds6-eng.pdf
+file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/2023-24-q1-quarterly-financial-report-eng.pdf 
+file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/Comite%CC%81%20olimpico%20USA%202019.pdf 
+file:///Users/edwardandresjimenezriascos/Documents/GitHub/Entrega1_JimenezFuentesMonsalve/Edward_Monsalve_Fuentes/Entrega_04/Jimenez_Integrante_02_Edward_vis_02/Otros%20Documentos/P51-1-2021-3-s6-eng.pdf 
+
+
+
+
 
 
 4) ### Gráfico del total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 y comparando su rendimiento con el de Lima 2019
