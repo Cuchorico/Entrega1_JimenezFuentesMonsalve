@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-color: #070608;
 }
 
 image-container {
@@ -68,7 +68,7 @@ section#Tarjetas{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: 005858;
+  background-color: #005858;
 }
 
 div#card{
