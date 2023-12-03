@@ -30,7 +30,7 @@
 
 * El párrafo que acompaña el primer gráfico resume nuestra interpretación de este y va en línea con la narrativa. Se deja en claro, de manera escrita, que antes de 2019 el gasto del IND era ínfimo, pero deja abierta la posibilidad de que la situación "cambió", lo cuál ínvita a seguir leyendo el análisis y llegar al siguiente gráfico, que detallaría como esa situación se modificó, si para bien o para mal.
 
-**"El aumento del presupuesto aumentó progresivamente en los siguientes años, así como el gasto total de este."**
+**"El presupuesto aumentó progresivamente en los siguientes años, así como el gasto total de este."**
 
 * Aquí mencionamos qué es lo que cambió tras 2019 y seguimos brindando esperanzas de que con el alza de los prespupuestos, por ende, los deportistas también debiesen haber aumentado sus ingresos directos o destinados a federaciones deportivas.
 
@@ -39,8 +39,7 @@
 * Esta es la transcición y la introducción del siguiente gráfico. Se plantea un conflicto que debe ser solucionado por la siguiente tabla.
 
 
-**""**
-* 
+**"Pese al alza sostenida de los fondos disponibles en lo últimos cuatro años, las platas del IND dirigidas a deportistas a través de sus respectivas federaciones deportivas se mantuvieron casi constantes en el tiempo, nunca logrando superar más de 1/6 del gasto total."**
 
 * El texto que acompaña al gráfico 2 deja en claro que la situación de financiamiento del deporte de elite en Chile realmente no cambió. Reavivando el conflicto y foco central de la historia: en Chile falta soporte económico para el deporte profesional.
 
