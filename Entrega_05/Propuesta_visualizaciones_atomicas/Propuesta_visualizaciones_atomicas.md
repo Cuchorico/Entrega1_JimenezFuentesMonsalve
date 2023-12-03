@@ -1,6 +1,6 @@
 # PROPUESTAS DE VISUALIZACIÓN ATÓMICA
 
-1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes 
+1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes (Agustín)
 
 <image src="./Gráfico de Ejecución presupuestaria IND.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
@@ -35,14 +35,46 @@ plt.show()
 - https://www.dipres.gob.cl/597/articles-323170_doc_pdf.pdf
 
 
-2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto
+2) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto (Agustín)
 
+<image src="./Gráfico 2.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
 **Explicación:**
 
+Este gráfico intenta visualizar qué tanto del gasto efectivamente ejercido del presupuesto total va a las Federaciones Deportivas. Lo que se puede concluir a partir de la fluctuación de las barras de las variables es que: 1) La correspondiente a los Gastos Totales del IND aumentó exponencialmente tras el año 2021; 2) Lo mismo ocurrió con la de los Juegos Para y Panamericanos, correspondiente a los gastos operacionales e infraestructurales ejercidos por el IND en Santiago 2023; 3) La única barra que se mantuvo constante y muy baja fue la de Federaciones Deportivas, dinero que, en teoría, debería ser el que va más directamente a los deportistas profesionales chilenos (infraestructura o equipos para entrenar, apoyo técnico y psicológico, etc.)
+
 **Código:**
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+N = 5
+ind = np.arange(N)
+width = 0.12
+
+xvals = [116122,103135,127324,235571,422532]
+bar1 = plt.bar(ind, xvals, width, color = '#BA2A20')
+
+yvals = [5021,6148,10339,49978,209213]
+bar2 = plt.bar(ind+width, yvals, width, color="#ABB900")
+
+zvals = [18167,16594,20328,22721,17699]
+bar3 = plt.bar(ind+width*2, zvals, width, color = '#004BAB')
+
+plt.xlabel('Año')
+plt.ylabel('En millones de pesos (CLP)')
+plt.title('Desglose de Ejecución Presupuestaria del IND')
+
+plt.xticks(ind+width,["2019","2020","2021","2022","2023 (hasta sept.)"])
+plt.legend( (bar1, bar2, bar3), ("Gasto Total","En Para y Panamericanos","En Federaciones Deportivas"))
+plt.show()
+
 **Bases de datos utilizadas:**
+- https://www.dipres.gob.cl/597/articles-323170_doc_pdf.pdf
+- https://transparencialobby.ind.cl/activa/presupuestoejecucion/2022/ejecucion/diciembre.pdf
+- http://www.dipres.cl/597/articles-264000_doc_pdf.pdf
+- https://www.dipres.gob.cl/597/articles-215418_doc_pdf.pdf
+- https://www.dipres.gob.cl/597/articles-199366_doc_pdf.pdf
 
 
 3) ### Gráfico de inversión anual en deportismo de alto rendimiento de primeros 8 lugares de Santiago 2023
@@ -54,6 +86,7 @@ plt.show()
 **Código:**
 
 **Bases de datos utilizadas:**
+
 
 
 4) ### Gráfico del total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 y comparando su rendimiento con el de Lima 2019
