@@ -3,7 +3,7 @@ body{
 }
 
 image-container {
-  position: relative;
+  position: absolute;
   display: inline-block;
   padding: 0px;
   margin-top: 0px;
@@ -53,6 +53,7 @@ image-container {
 	font-family: unset;
 	color: white;
 	align-items: center;
+  size: ;
 }
 
 image-container{
