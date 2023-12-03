@@ -1,5 +1,5 @@
 body{
-	background-color: #black;
+	background-color: black;
 }
 
 image-container {
@@ -112,25 +112,37 @@ h3{
 	align-items: center;
 }
 
-footer{;
+footer{
   display: flex;
   align-items: center;
   justify-content: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fe79e24b0d815aeb73c5e5abdb836dd16a0d6a13
   background-color: #005858;
+<<<<<<< HEAD
+  padding: 30px;
+  margin: 0px;
+  border-top: 0px;
+=======
 =======
 footer {
 >>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
 	
+<<<<<<< HEAD
 =======
 }
 
 footer {
 	background-color: #005858;
 >>>>>>> 72b57c0aacc88712986a327870f392ae6a82ae0c
+=======
+>>>>>>> fe79e24b0d815aeb73c5e5abdb836dd16a0d6a13
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
+>>>>>>> 87192e1f72e81a98c61ef93daf0bc7c5faff52dd
 }
 
 h3#Contacto1{
