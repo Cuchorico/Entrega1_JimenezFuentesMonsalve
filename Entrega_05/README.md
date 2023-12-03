@@ -1,4 +1,4 @@
-Fuentes - Jimenez - Monsalve 
+Fuentes - Jimenez - Monsalve
 
 ## Información General
 
@@ -21,3 +21,8 @@ Su navegación se sostiene en el scrolling, pero como herramientas interactivas 
 | Color de fuentes |              |              |  Agustín            |
 |Gráfico sobre Ejecución presupuestaria del IND| | |Agustín |
 |Footer (color y tamaño)| | | Agustín|
+|Footer (Diseño CSS)| | Jorge | |
+|Tarjetas| | Jorge | |
+|Gráfico Medallero Olímpico| | Jorgre | |
+|Gráfico Panamericanos| | Jorge | |
+|Collage fotos| | Jorge | |

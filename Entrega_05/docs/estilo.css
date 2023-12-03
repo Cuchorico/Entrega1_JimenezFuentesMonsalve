@@ -1,5 +1,5 @@
 body{
-	background-color: #070608;
+	background-color: black;
 }
 
 image-container {
@@ -55,14 +55,14 @@ image-container {
 	align-items: center;
 }
 
-<<<<<<< HEAD
 image-container{
 	align-items: center;
 }
 
 h2{
 	color: white;
-=======
+}
+
 section#Tarjetas{
   display: flex;
   align-items: center;
@@ -92,6 +92,7 @@ div#content{
   opacity: 0;
   transition: 0.5s;
 }
+
 h2, a{
   color: rgba(255, 255, 255, 0.8);
   margin: 10px 0px;
@@ -101,9 +102,6 @@ div#card:hover div#content{
   opacity: 1;
 }
 
-div#card:hover{
-box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
-}
 
 
 img{
@@ -111,17 +109,19 @@ img{
 }
 
 h3{
-	color: black;
->>>>>>> b87334a7de2519f6c443f395e8e103d0b077fcda
 	align-items: center;
 }
 
-<<<<<<< HEAD
-footer{;
+footer{
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: #005858;
+<<<<<<< HEAD
+  padding: 30px;
+  margin: 0px;
+  border-top: 0px;
+=======
 =======
 footer {
 >>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
@@ -129,6 +129,7 @@ footer {
 	padding: 30px;
 	margin: 0px;
 	border-top: 0px;
+>>>>>>> 87192e1f72e81a98c61ef93daf0bc7c5faff52dd
 }
 
 h3#Contacto1{
@@ -162,7 +163,6 @@ section#Gráficos2{
   justify-content: left;
 }
 
-}
 
 .fade {
   margin: 50px;
