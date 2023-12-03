@@ -62,6 +62,8 @@ plt.show()
 
 **Explicación:**
 
+Este gráfico compara las medallas obtenidas por los ocho primeros lugares de Santiago 2023 en los Juegos Panamericanos de este año con las obtenidas en Lima 2019. Sirve para comparar qué tanto han avanzado estos ocho países durante los últimos cuatro años, para así evidenciar que Chile se ha quedado estancado en el octavo lugar, a pesar de mejorar en sus medallas. Es la forma más objetiva de mostrar el rendimiento deportivo de cada país.
+
 **Código:**
 
 etiquetas = ["EEUU", "Brasil", "México", "Canadá", "Cuba", "Colombia", "Argentina", "Chile"]
@@ -82,3 +84,5 @@ ax.set_xticklabels(etiquetas)
 plt.legend()
 
 **Bases de datos utilizadas:**
+
+
