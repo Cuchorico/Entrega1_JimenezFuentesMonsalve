@@ -47,7 +47,7 @@
 
 **"Además,la comparación a nivel internacional tampoco deja a nuestro país muy bien parado."**
 
-**"Entre los primeros ocho puestos del medallero de Santiago 2023, Chile fue el país que menor inversión estatal brindó a sus federaciones deportivas durante los últimos cuatro años, tras la edición Lima 2019 del certamen. Dato que coincide con su última posición en el top 8 de la tabla de posiciones. Y con la primera posición de Estados Unidos, país que es el indudable invicto en términos de financiación de sus deportistas a través de fondos destinados a su Comité Olímpico y la Asociación Intercolegial Nacional de Deportes (NAIA)."**
+**"Entre los primeros ocho puestos del medallero de Santiago 2023, Chile fue el país que menor inversión estatal brindó a sus federaciones deportivas durante los últimos cuatro años, tras la edición Lima 2019 del certamen. Dato que coincide con su última posición en el top 8 de la tabla de posiciones. Y con la primera posición de Estados Unidos, país que es el indudable invicto en términos de financiación de sus deportistas, a través de fondos destinados a su Comité Olímpico y la Asociación Intercolegial Nacional de Deportes (NAIA)."**
 
 * Este texto que acompaña al gráfico 3 es la más clara ejemplificación de la falta de financiación en el deporte de elite chileno, y refuerza esta idea al señalar la correlación entre el bajo *performance* y el bajo financiamiento entre los primeros ocho lugares de nuestro país, además de la relación entre el éxito del primer lugar, EE.UU. con sus altos fondos que resaltan muy por sobre los otros siete países de la muestra.
 
