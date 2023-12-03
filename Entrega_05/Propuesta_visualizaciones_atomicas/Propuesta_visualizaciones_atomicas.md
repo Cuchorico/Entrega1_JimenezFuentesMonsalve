@@ -2,7 +2,7 @@
 
 1) ### Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes (Agustín)
 
-<image src="./Gráfico de Ejecución presupuestaria IND.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
+<image src="./Gráfico 1.png" alt="Ejecución Presupuestaria del IND desde 2015 hasta septiembre de 2023">
 
 **Explicación:**
 Este gráfico nos servirá para introducir la historia, ya que instaura una problemática: desde 2015 hasta 2019, el IND gastó menos de un tercio de los fondos disponibles ¿Dónde están el resto de los fondos ahora? ¿Se ejecutaron? Se preguntará el lector. Aunque, desde 2020 hasta 2023 esto cambió, porque el gráfico indica que la ejecución de fondos se comenzó a acercar al total disponible anualmente. Sin embargo, esto también plantea la pregunta de si, con el aumento del presupuesto y de la cantidad de fondos usados, también aumentó el dinero destinado a los deportistas y sus federaciones, lo que introduce la temática del siguiente gráfico.
