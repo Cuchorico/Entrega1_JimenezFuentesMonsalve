@@ -2,7 +2,7 @@ Fuentes - Jimenez - Monsalve
 
 ## Información General
 
-* [Link a video-presentación]()
+* [Link a video-presentación](https://youtu.be/EpUtUUOY6dE?si=FBSTUkJsmVYw0L5h)
 
 * [Link a presentación](https://acrobat.adobe.com/id/urn:aaid:sc:US:ff50b226-1747-4573-ac5f-d73585b36223)
 
