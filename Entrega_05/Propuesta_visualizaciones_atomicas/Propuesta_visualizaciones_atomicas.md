@@ -115,7 +115,3 @@ ax.set_ylabel('Medallas')
 ax.set_xticks(co)
 ax.set_xticklabels(etiquetas)
 plt.legend()
-
-**Bases de datos utilizadas:**
-
-
