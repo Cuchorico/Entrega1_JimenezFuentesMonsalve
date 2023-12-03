@@ -17,9 +17,36 @@ plt.show()
 2) Gráfico sobre la Ejecución Presupuestaria anual del Instituto Nacional de Deportes desglosada por sector de gasto
 
 
+import numpy as np
+import matplotlib.pyplot as plt
+
+N = 5
+ind = np.arange(N)
+width = 0.12
+
+xvals = [116122,103135,127324,235571,422532]
+bar1 = plt.bar(ind, xvals, width, color = '#BA2A20')
+
+yvals = [5021,6148,10339,49978,209213]
+bar2 = plt.bar(ind+width, yvals, width, color="#ABB900")
+
+zvals = [18167,16594,20328,22721,17699]
+bar3 = plt.bar(ind+width*2, zvals, width, color = '#004BAB')
+
+plt.xlabel('Año')
+plt.ylabel('En millones de pesos (CLP)')
+plt.title('Desglose de Ejecución Presupuestaria del IND')
+
+plt.xticks(ind+width,["2019","2020","2021","2022","2023 (hasta sept.)"])
+plt.legend( (bar1, bar2, bar3), ("Gasto Total","En Para y Panamericanos","En Federaciones Deportivas"))
+plt.show()
+
+
 3) Gráfico de inversión anual en deportismo de alto rendimiento de primeros 8 lugares de Santiago 2023
 
+
 4) Gráfico del total de preseas obtenidas por los primeros 8 lugares en Santiago 2023 y comparando su rendimiento con el de Lima 2019
+
 
 etiquetas = ["EEUU", "Brasil", "México", "Canadá", "Cuba", "Colombia", "Argentina", "Chile"]
 valores = [293, 169, 138, 152, 100, 82, 101, 50]
@@ -37,3 +64,6 @@ ax.set_ylabel('Medallas')
 ax.set_xticks(co)
 ax.set_xticklabels(etiquetas)
 plt.legend()
+
+
+5) Gráfico del total acumulado de preseas obtenidas por los primeros 8 lugares en Santiago 2023 pero en los Juegos Olímpicos 
