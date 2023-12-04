@@ -16,12 +16,13 @@ Su navegación se sostiene en el scrolling, pero como herramientas interactivas 
 
 | Elemento  | Edward Jimenez | Jorge Fuentes | Agustín Monsalve |
 |:----------|:---------------|:--------------|:-----------------|
-| Background|                |               |     Agustín      |
+| Background de la página|                |               |     Agustín      |
 | Portada   |                |               |     Agustín      |
 | Color de fuentes |              |              |  Agustín            |
 |Gráfico sobre Ejecución presupuestaria del IND| | |Agustín |
 |Footer (color y tamaño)| | | Agustín|
 |Screenshoots de titulares| |  | Agustín|
+|Screenshoot de titular sobre 99% de ejecución presupuestaria| | |Agustín|
 |Gráfico sobre desglose de Ejecución presupuestaria del IND| | |Agustín|
 |Crónica que acompaña a los gráficos| | |Agustín|
 |Footer (Diseño CSS)| | Jorge | |
