@@ -124,6 +124,7 @@ footer{
   padding: 30px;
   margin: 0px;
   border-top: 0px;
+}
   
 h3#Contacto1{
   margin: 50px;
@@ -186,8 +187,4 @@ section#Gráficos2{
   align-items: stretch;
   justify-content: center;
   
-}
-
-
-
 }
