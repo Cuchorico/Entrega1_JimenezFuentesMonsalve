@@ -121,21 +121,10 @@ footer{
   align-items: center;
   justify-content: center;
   background-color: #005858;
-<<<<<<< HEAD
   padding: 30px;
   margin: 0px;
   border-top: 0px;
-=======
-=======
-footer {
->>>>>>> 374c30fa7ae03f3122614303c14c61d5193a3a8d
-	
-	padding: 30px;
-	margin: 0px;
-	border-top: 0px;
->>>>>>> 87192e1f72e81a98c61ef93daf0bc7c5faff52dd
-}
-
+  
 h3#Contacto1{
   margin: 50px;
 }
