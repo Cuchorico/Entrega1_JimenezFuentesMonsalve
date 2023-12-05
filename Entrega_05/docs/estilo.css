@@ -21,7 +21,7 @@ image-container {
   background-position: top-center
 }
 
-cabecera {
+.cabecera {
   position: absolute;
   top: 50%; 
   left: 10%;
@@ -33,7 +33,7 @@ cabecera {
   text-align: justify;
 }
 
-texto_introductorio {
+.texto_introductorio {
 	color: #A88900;
 	position: absolute;
 	top: 60%; 
