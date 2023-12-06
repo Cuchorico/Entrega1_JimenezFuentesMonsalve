@@ -5,7 +5,7 @@ body{
 image-container {
   position: relative;
   display: inline-block;
-  padding: 0px;
+  scroll-padding-top: 0px;
   margin-top: 0px;
   border-top: 0px;
   background-position: top-center 
@@ -15,7 +15,7 @@ image-container {
   width: 100%;
   lenght:100%;
   height: auto;
-  padding: 0px;
+  scroll-padding-top: 0px;
   margin-top: 0px;
   border-top: 0px;
   background-position: top-center;
