@@ -12,8 +12,8 @@ image-container {
 }
 
 .image-container img {
-  width: 160%;
-  lenght:160%;
+  width: 100%;
+  lenght:100%;
   height: auto;
   padding: 0px;
   margin-top: 0px;
