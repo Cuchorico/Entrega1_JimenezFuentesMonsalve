@@ -170,8 +170,7 @@ section#Gráficos2{
   display: flex;
   flex-direction: column;
   align-content: left;
-  width: 40%;
-  lenght:40%;
+  
 }
 
 .vertcontainer-1{
@@ -188,6 +187,5 @@ section#Gráficos2{
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  justify-content: center;
-  
+  justify-content: left;
 }
