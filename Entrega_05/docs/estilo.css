@@ -181,7 +181,7 @@ section#Gráficos2{
   right: 25%;
 }
 
-image-container-2{
+.image-container-2{
   display: flex;
   flex-direction: column;
   justify-content: left;
