@@ -185,6 +185,9 @@ image-container-2{
   display: flex;
   flex-direction: column;
   justify-content: left;
+  width: 30%;
+  height: 30%;
+  align-items: left;
 }
 
 .imagevertcontainer-2{
