@@ -181,11 +181,16 @@ section#Gráficos2{
   right: 25%;
 }
 
-.image-container-2{
-  width: 30%;
-  height: 30%;
+image-container-2{
   display: flex;
   flex-direction: column;
-  align-items: stretch;
   justify-content: left;
+}
+
+.imagevertcontainer-2{
+  flex-direction: column;
+  justify-content: center;
+  width: 30%;
+  height: 30%;
+  align-items: left;
 }
