@@ -12,14 +12,14 @@ image-container {
 }
 
 .image-container img {
-  width: 130%;
-  lenght:130%;
+  width: 100%;
+  lenght:100%;
   height: auto;
   padding: 0px;
   margin-top: 0px;
   border-top: 0px;
   background-position: top-center;
-  align: left;
+  align-content: center;
 }
 
 .cabecera {
