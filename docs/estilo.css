@@ -185,14 +185,14 @@ section#Gráficos2{
   flex-direction: column;
   justify-content: left;
   width: 100px;
-  height: 100px;
+  height: auto;
   align-items: left;
 }
 
 #imagevertcontainer-2{
   flex-direction: column;
   justify-content: center;
-  width: 30%;
-  height: 30%;
+  width: 30;
+  height: 30;
   align-items: left;
 }
