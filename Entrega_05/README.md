@@ -6,7 +6,7 @@ Fuentes - Jimenez - Monsalve
 
 * [Link a presentación](https://acrobat.adobe.com/id/urn:aaid:sc:US:ff50b226-1747-4573-ac5f-d73585b36223)
 
-* Link a la webstory: file:///C:/Users/agust/OneDrive/Documentos/GitHub/Entregas_JimenezFuentesMonsalve/Entrega_05/docs/index.html  
+* [Link a la webstory](https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/)
 
 En este trabajo generamos nuestra versión beta de lo que será  nuestro sitio web. Con un enfoque minimalista y de periodismo investigativo, le otorgamos un fondo negro que metaforiza la obscuridad de datos que, pese a ser públicos, han pasado fuertemente desapercibidos por la prensa y la población. 
 
