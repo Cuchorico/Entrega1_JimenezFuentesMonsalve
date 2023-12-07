@@ -208,7 +208,7 @@ section#Gráficos2{
   background-color: #070608;
   text-align: justify
   font-family: unset;
-  color: white;
+  color: #99e4ff;
   justify-content: center;
   size: 100px;
   padding-right: 25%;
@@ -267,7 +267,7 @@ section#Gráficos2{
 }
 
 h2{
-  color: #99e4ff;
+  color: #f4d54c;
   background-color: #070608;
   text-align: justify;
   font-family: unset;
@@ -316,6 +316,18 @@ h2{
   height:auto;
   max-width: auto;
   max-height: auto;
+}
+
+#image-container-7 {
+  justify-content: center;
+  padding-right: 25%;
+  padding-left: 25%;
+  padding-top: 25%;
+  padding-bottom: 100%;
+  width: 700px;
+  height: auto;
+  max-width: 20%;
+  max-height: 20%;
 }
 
 <<<<<<< HEAD
