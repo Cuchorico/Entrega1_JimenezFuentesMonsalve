@@ -164,53 +164,66 @@ section#Gráficos2{
   justify-content: left;
 }
 
-.space-2{
-  height: 150px;
+.space-2 {
+  max-height: 40px;
+  max-width: 40px;
 }
 
-#image-container-2{
+#image-container-2 {
+  padding-right: 85%;
   padding-left: 15%;
-  width: 20px;
-  height: 20px;
+  padding-top: 50%;
+  width: 500px;
+  height: auto;
+  max-width: 20%;
+  max-height: 20%;
 }
 
-#image-container-3{
-  padding-right: 15%;
-  width: 40px;
-  height: 40px;
+
+#image-container-3 {
+  padding-right:45%;
+  padding-left: 50%;
+  padding-top:50%;
+  width: 500px;
+  height:auto;
+  max-width: 20%;
+  max-height: 20%;
 }
 
-.container-1{
-  display: flex;
-  flex-direction: column;
-  align-content: left;
-  
+#image-container-4 {
+  padding-right: 85%;
+  padding-left: 15%;
+  padding-top:50%;
+  width: 500px;
+  height:auto;
+  max-width: 20%;
+  max-height: 20%;
 }
 
-.vertcontainer-1{
-  display: flex;
-  flex-direction: column;
+#image-container-5 {
+  padding-right: 45%;
+  padding-left: 50%;
+  padding-top: 50%;
+  width: 500px;
+  height:auto;
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.container-1 {
   justify-content: center;
   left: 25%;
-  right: 25%;
+  right: 35%;
+}
+
+.image-container-6{
+  padding-left: 180px;
+  padding-top: 50%;
+  width:600px;
+  height:auto;
+  max-width: 20%;
+  max-height: 20%;
 }
 
 <<<<<<< HEAD
 =======
-#image-container-2{
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  width: 100px;
-  height: 100px;
-  align-items: left;
-}
-
-#imagevertcontainer-2{
-  flex-direction: column;
-  justify-content: center;
-  width: 30%;
-  height: 30%;
-  align-items: left;
-}
->>>>>>> parent of 20150c7 (180 Commit)
