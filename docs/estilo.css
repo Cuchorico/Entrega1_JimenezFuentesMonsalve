@@ -180,19 +180,41 @@ section#Gráficos2{
   right: 25%;
 }
 
+#space-2{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-star;
+  width: 25%;
+  height: 25%;
+  order: 1;
+  flex-grow: 4;
+}
+
 #image-container-2{
   display: flex;
   flex-direction: column;
-  justify-content: left;
-  width: 100px;
-  height: auto;
-  align-items: left;
+  justify-content: flex-start;
+  width: 25%;
+  height: 25%;
+  order: 2;
 }
 
-#imagevertcontainer-2{
+#image-container-3{
+  display: flex;
   flex-direction: column;
-  justify-content: center;
-  width: 30%;
-  height: 30%;
-  align-items: left;
+  justify-content: flex-end;
+  width: 40%;
+  height: 40%;
+  order: 2;
+  right: 10%;
+  left: 90%;
+}
+
+#space-3{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 25%;
+  height: 25%;
+  order: 1;
 }
