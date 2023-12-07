@@ -164,6 +164,21 @@ section#Gráficos2{
   justify-content: left;
 }
 
+.space-2{
+  height: 150px;
+}
+
+#image-container-2{
+  padding-left: 15%;
+  width: 20px;
+  height: 20px;
+}
+
+#image-container-3{
+  padding-right: 15%;
+  width: 40px;
+  height: 40px;
+}
 
 .container-1{
   display: flex;
@@ -180,41 +195,3 @@ section#Gráficos2{
   right: 25%;
 }
 
-#space-2{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-star;
-  width: 25%;
-  height: 25%;
-  order: 1;
-  flex-grow: 4;
-}
-
-#image-container-2{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  width: 25%;
-  height: 25%;
-  order: 2;
-}
-
-#image-container-3{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  width: 40%;
-  height: 40%;
-  order: 2;
-  right: 10%;
-  left: 90%;
-}
-
-#space-3{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
-  width: 25%;
-  height: 25%;
-  order: 1;
-}
