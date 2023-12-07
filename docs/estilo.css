@@ -204,12 +204,6 @@ section#Gráficos2{
   max-height: 20%;
 }
 
-.container-1 {
-  width: 500px;
-  height: auto;
-  left: 500px;
-}
-
 #texto-1 {
   background-color: #070608;
   text-align: justify
@@ -265,6 +259,58 @@ section#Gráficos2{
   padding-right: 25%;
   padding-left: 25%;
   padding-top: 50%;
+  padding-bottom: 25%;
+  width: auto;
+  height:auto;
+  max-width: auto;
+  max-height: auto;
+}
+
+h2{
+  color: #99e4ff;
+  background-color: #070608;
+  text-align: justify;
+  font-family: unset;
+  justify-content: center;
+  size: 400px;
+  padding-right: 25%;
+  padding-left: 25%;
+  padding-top: 50%;
+  padding-bottom: 25%;
+  width: auto;
+  height:auto;
+  max-width: auto;
+  max-height: auto;
+}
+
+#container-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+#vertcontainer-1{
+  display:flex;
+  flex-direction: column;
+  order: 1;
+  padding-left: 10%;
+}
+
+#vertcontainer-2{
+  display:flex;
+  flex-direction: column;
+  order: 2;
+}
+
+#texto-4{
+  color: white;
+  background-color: #070608;
+  text-align: justify;
+  font-family: unset;
+  justify-content: center;
+  size: 200px;
+  padding-right: 25%;
+  padding-left: 25%;
+  padding-top: 65%;
   padding-bottom: 25%;
   width: auto;
   height:auto;
