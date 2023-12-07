@@ -165,7 +165,7 @@ section#Gráficos2{
 }
 
 .space-2{
-  height: 150px;
+  height: 200px;
 }
 
 #image-container-2{
@@ -175,6 +175,13 @@ section#Gráficos2{
 }
 
 #image-container-3{
+  padding-right: 15%;
+  padding left:40%;
+  width: 40px;
+  height: 40px;
+}
+
+#image-container-4{
   padding-right: 15%;
   width: 40px;
   height: 40px;
