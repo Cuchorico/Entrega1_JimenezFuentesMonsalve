@@ -1,5 +1,10 @@
 body{
 	background-color: #070608;
+  margin: 0px;
+}
+
+header{
+  height: 100vh;
 }
 
 image-container {
@@ -12,6 +17,7 @@ image-container {
 }
 
 .image-container img {
+  margin-bottom: 15px;
   width: 100%;
   lenght:100%;
   height: auto;
@@ -32,6 +38,7 @@ image-container {
   padding: 10px 20px; 
   font-size: 100px; 
   text-align: justify;
+  font-weight: 600;
 }
 
 .texto_introductorio {
