@@ -52,9 +52,10 @@ image-container {
 	text-align: left;
 }
 
-.space{
+.space {
 	background-color: #070608;
-	min-height: 90vh;
+  width: auto;
+	height: 100px;
 
 }
 
@@ -196,7 +197,7 @@ section#Gráficos2{
   padding-right: 45%;
   padding-left: 50%;
   padding-top: 50%;
-  padding-bottom: 50%;
+  padding-bottom: 0%;
   width: 500px;
   height:auto;
   max-width: 20%;
@@ -209,7 +210,7 @@ section#Gráficos2{
   left: 500px;
 }
 
-.texto {
+#texto-1 {
   background-color: #070608;
   text-align: justify
   font-family: unset;
@@ -218,8 +219,25 @@ section#Gráficos2{
   size: 100px;
   padding-right: 25%;
   padding-left: 25%;
-  padding-top: 0%;
-  padding-bottom: 5%;
+  padding-top: 20%;
+  padding-bottom: 35%;
+  width: auto;
+  height:auto;
+  max-width: auto;
+  max-height: auto;
+}
+
+#texto-2 {
+  color: #8A2A20;
+  background-color: #070608;
+  text-align: justify;
+  font-family: unset;
+  justify-content: center;
+  size: 200px;
+  padding-right: 25%;
+  padding-left: 25%;
+  padding-top: 50%;
+  padding-bottom: 3%;
   width: auto;
   height:auto;
   max-width: auto;
@@ -235,6 +253,23 @@ section#Gráficos2{
   height:auto;
   max-width: 20%;
   max-height: 20%;
+}
+
+#texto-3{
+  color: white;
+  background-color: #070608;
+  text-align: justify;
+  font-family: unset;
+  justify-content: center;
+  size: 200px;
+  padding-right: 25%;
+  padding-left: 25%;
+  padding-top: 50%;
+  padding-bottom: 25%;
+  width: auto;
+  height:auto;
+  max-width: auto;
+  max-height: auto;
 }
 
 <<<<<<< HEAD
