@@ -113,6 +113,7 @@ h3{
 
 footer{
   display: flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   background-color: #005858;
@@ -120,15 +121,22 @@ footer{
   margin: 0px;
   border-top: 0px;
 }
-  
+ 
+h3#Nombres{
+  margin: 50px;
+  flex-direction: column;
+}
 h3#Contacto1{
   margin: 50px;
+  flex-direction: column;
 }
 h3#Contacto2{
   margin: 50px;
+  flex-direction: column;
 }
 h3#Contacto3{
   margin: 50px;
+  flex-direction: column;
 }
 
 section#Gráficos{
