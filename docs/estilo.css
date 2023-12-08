@@ -321,8 +321,8 @@ h2{
   padding-bottom: 40%;
   width: 700px;
   height: auto;
-  max-width: auto%;
-  max-height: auto%;
+  max-width: auto;
+  max-height: auto;
 }
 
 #texto-5 {
