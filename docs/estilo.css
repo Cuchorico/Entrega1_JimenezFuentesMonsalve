@@ -401,7 +401,7 @@ h2{
 #container-4 {
   display: flex;
   flex-direction: row;
-  margin-bottom: 50%;
+  margin-bottom: 70%;
 }
 
 #vertcontainer-5 {
@@ -430,6 +430,24 @@ h2{
   max-width: 70%;
   max-height: 60%;
   justify-content: center;
+}
+
+#texto-9{
+  color: #d6766c;
+  background-color: #070608;
+  padding-right: 30%;
+  padding-left: 30%;
+  padding-top: 0%;
+  width: 40%;
+  height: auto;
+  max-width: 60%;
+  max-height: 60%;
+  justify-content: center;
+}
+
+#container-5 {
+  text-align: justify;
+  padding-left: 27%;
 }
 
 .space {
