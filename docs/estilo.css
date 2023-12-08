@@ -52,11 +52,6 @@ image-container {
 	text-align: left;
 }
 
-.space {
-	background-color: #070608;
-  width: auto;
-	height: 50px;
-
 }
 
 image-container{
@@ -372,19 +367,74 @@ h2{
 #container-3 {
   display: flex;
   flex-direction: row;
+  margin-bottom: 50%;
 }
 
 #vertcontainer-3 {
   display:flex;
   flex-direction: column;
-  order: 1;
-  padding-left: 10%;
+  order: 2;
+  padding-right: 5%;
+  padding-left: 0%;
 }
 
 #vertcontainer-4 {
   display:flex;
   flex-direction: column;
-  order: 2;
+  order: 1;
+  padding-left: 15%;
 }
+
+#texto-7{
+  color: #d6766c;
+  background-color: #070608;
+  padding-right: 0%;
+  padding-left: 10%;
+  padding-top: 0%;
+  width: 300px;
+  height: auto;
+  max-width: 70%;
+  max-height: 60%;
+  justify-content: center;
+}
+
+#container-4 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50%;
+}
+
+#vertcontainer-5 {
+  display:flex;
+  flex-direction: column;
+  order: 2;
+  padding-right: 5%;
+  padding-left: 0%;
+}
+
+#vertcontainer-6 {
+  display:flex;
+  flex-direction: column;
+  order: 1;
+  padding-left: 15%;
+}
+
+#texto-8{
+  color: #ffff99;
+  background-color: #070608;
+  padding-right: 0%;
+  padding-left: 10%;
+  padding-top: 0%;
+  width: 300px;
+  height: auto;
+  max-width: 70%;
+  max-height: 60%;
+  justify-content: center;
+}
+
+.space {
+  background-color: #070608;
+  width: auto;
+  height: 50px;
 <<<<<<< HEAD
 =======
