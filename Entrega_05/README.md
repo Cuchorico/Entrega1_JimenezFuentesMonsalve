@@ -25,6 +25,8 @@ Su navegación se sostiene en el scrolling, pero como herramientas interactivas 
 |Screenshoot de titular sobre 99% de ejecución presupuestaria| | |Agustín|
 |Gráfico sobre desglose de Ejecución presupuestaria del IND| | |Agustín|
 |Crónica que acompaña a los gráficos| | |Agustín|
+|Posicionamiento de elementos en webstory| | |Agustín|
+|Color de párrafos| | |Agustín|
 |Footer (Diseño CSS)| | Jorge | |
 |Tarjetas| | Jorge | |
 |Gráfico Medallero Olímpico| | Jorge | |
