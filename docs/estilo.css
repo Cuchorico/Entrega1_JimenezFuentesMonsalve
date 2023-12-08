@@ -1,6 +1,7 @@
 body{
 	background-color: #070608;
-  margin: 0px;
+  margin: 0px auto;
+  justify-content: center;
 }
 
 header{
@@ -68,6 +69,7 @@ section#Tarjetas{
   justify-content: center;
   min-height: 100vh;
   background-color: #005858;
+  margin: 0 auto;
 }
 
 div#card{
@@ -466,8 +468,11 @@ h2{
 #container-5 {
   text-align: justify;
   padding-left: 27%;
-  border-radius: 40%;
   filter: dropshadow(0px 3px 5px black);
+}
+
+.Image-with-curved-border{
+  border-radius: 50px;
 }
 
 .space {
