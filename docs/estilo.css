@@ -481,7 +481,7 @@ h2{
   height: 50px;
 }
 
-img {
+#image-container-2 {
   animation: show;
   animation-duration: 30s;
 
