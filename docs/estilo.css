@@ -25,7 +25,7 @@ image-container {
   padding-top: 0px;
   margin-top: 0px;
   border-top: 0px;
-  padding-left: 11%;
+  padding-left: 15%;
   background-position: top-center;
   align-content: center;
 }
@@ -302,8 +302,12 @@ h2{
 #vertcontainer-1{
   display:flex;
   flex-direction: column;
+  flex-grow: 4;
   order: 1;
   padding-left: 10%;
+  width: 500px;
+  max-height: auto;
+  max-lenght: auto;
 }
 
 #vertcontainer-2{
@@ -311,6 +315,7 @@ h2{
   flex-direction: column;
   order: 2;
   border-radius: 10px;
+  max
 }
 
 #texto-4{
@@ -480,38 +485,7 @@ h2{
   background-color: #070608;
   width: auto;
   height: 50px;
-<<<<<<< Updated upstream
-}
-
-#image-container-2 {
-  animation: show;
-  animation-duration: 30s;
-
-  view-timeline-name: --image;
-  view-timeline-axis: block;
-
-  animation-timeline: --image;
-  animation-name: show;
-
-  animation-range: entry 25% cover 50%;
-  animation-fill-mode: both;
-}
-
-@keyframes show {
-  from {
-    opacity: 0;
-    scale: 25%;
-  }
-
-  to {
-    opacity: 1;
-    scale: 100%;
-  }
-}
-
-=======
 
 
 <<<<<<< HEAD
 =======
->>>>>>> Stashed changes
