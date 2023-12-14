@@ -168,7 +168,7 @@ section#Gráficos2{
   max-width: 40px;
 }
 
-#image-container-2 {
+.image-container-2 {
   padding-right: 85%;
   padding-left: 15%;
   padding-top: 50%;
@@ -177,8 +177,12 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
 }
 
+.aparecer-image-container-2 {
+  opacity: 1;
+}
 
 #image-container-3 {
   padding-right:45%;
