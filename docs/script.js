@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
         var distancia = window.innerHeight - image_container_2.getBoundingClientRect().top;
 
-        if (distancia >= 94) {
+        if (distancia >= 511) {
             image_container_2.classList.add("aparecer-image-container-2");
         }
 
