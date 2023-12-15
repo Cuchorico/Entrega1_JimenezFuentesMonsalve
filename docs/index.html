@@ -69,8 +69,8 @@
 
 		   <p id="texto-2">Pero pese al extasiante ambiente, muchos deportistas que nos representan aprovecharon para hacer publicas sus demandas por una falta de apoyo financiero. Una exigencia que no es nueva en el rubro deportivo nacional, y que podría, como consecuencia, traer obstáculos a la preparación y rendimiento de los atletas nacionales.</p>
 
-		   <div class="image-fading image-container-6">
-        <img src="Titulares.png" alt= "Titulares" style="width: 500px; height: auto;">
+		   <div class="image-fading Image-with-curved-border image-container-6">
+        <img src="Titulares.png" alt= "Titulares" style="width: 700px; height: auto;">
 		   </div> 
 
              <div class= "space"></div>
@@ -83,15 +83,22 @@
 
              <div class= "space"></div>
              <div class="image-fading container-1">
-             	<!DOCTYPE html>
+             	<div id="vertcontainer-1" style="width: 200px; height: auto;">
+             		<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <title>Gráfico Plotly en HTML</title>
+    <style>
+        body {
+            background-color: #070608; /* Color de fondo de la página */
+            color: #ffffff; /* Color del texto en la página */
+        }
+    </style>
 </head>
-<body style="background-color: #f0f0f0;"> <!-- Establecer el color de fondo de la página -->
+<body>
 
 <div id="grafico"></div>
 
@@ -118,14 +125,14 @@
         marker: {color: 'blue'}
     };
 
-    // Configurar diseño del gráfico
+    // Configurar diseño del gráfico sin especificar el color de fondo
     var layout = {
         title: 'Presupuesto IND vs Ejecución o gasto',
         xaxis: {title: 'Años'},
         yaxis: {title: 'Miles de $US'},
-        template: 'plotly_dark',  // Usar un fondo oscuro
-        plot_bgcolor: 'rgba(0, 0, 0, 0)',  // Establecer el fondo del gráfico como transparente
-        paper_bgcolor: 'rgba(0, 0, 0, 0)'  // Establecer el fondo del papel como transparente
+        paper_bgcolor: '#070608', // Color de fondo del área del gráfico
+        plot_bgcolor: '#070608',  // Color de fondo del gráfico
+        font: {color: '#ffffff'}  // Color del texto del gráfico
     };
 
     // Crear figura
@@ -218,7 +225,7 @@
               </body>
               </html>
              </div>
-            
+           
              <p id="texto-6">Pese al alza sostenida de los fondos disponibles en lo últimos cuatro años, las platas del IND dirigidas a deportistas a través de sus respectivas federaciones deportivas se mantuvieron casi constantes en el tiempo, nunca logrando superar más de 1/6 del gasto total.</p>
 
                 <div class= "space"></div>

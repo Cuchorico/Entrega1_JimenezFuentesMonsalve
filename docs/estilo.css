@@ -327,8 +327,8 @@ h2{
 .container-1 {
   display: flex;
   flex-direction: row;
-  border-left: 25%;
-  margin-left: 25%;
+  border-left: 0%;
+  margin-left: 0%;
   opacity: 0;
   transition: 6s;
 }
@@ -340,10 +340,11 @@ h2{
 #vertcontainer-1{
   display:flex;
   flex-direction: column;
-  flex-grow: 3;
+  flex-grow: 2;
   order: 1;
-  padding-left: 13%;
-  width: auto;
+  padding-left: 0%;
+  padding-right: 30%;
+  width: 200px;
   height: auto;
 }
 
@@ -535,7 +536,7 @@ h2{
 }
 
 .Image-with-curved-border{
-  border-radius: 50px;
+  border-radius: 30px;
 }
 
 .space {
