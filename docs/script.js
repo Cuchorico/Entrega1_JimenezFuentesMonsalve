@@ -1,14 +1,142 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    let image_container_2 = document.getElementsByClassName("image-container-2")[0];
+    let containers = document.getElementsByClassName("image-fading");
 
-    window.onscroll = function () {
-        image_container_2.classList.add("aparecer-image-container-2");
-
-        var distancia = window.innerHeight - image_container_2.getBoundingClientRect().top;
-
-        if (distancia >= 94) {
-            image_container_2.classList.add("aparecer-image-container-2");
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-2");
+            }
         }
+    }
+    );
+});
 
-        console.log(distancia);
-    };
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-3");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-4");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-5");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-6");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-container-1");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-container-2");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-texto-9");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-container-5");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-texto-bloqueos");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-texto-10");
+            }
+        }
+    }
+    );
+});

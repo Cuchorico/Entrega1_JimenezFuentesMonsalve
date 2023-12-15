@@ -164,8 +164,8 @@ section#Gráficos2{
 }
 
 .space-2 {
-  max-height: 40px;
-  max-width: 40px;
+  max-height: 400px;
+  max-width: 400px;
 }
 
 .image-container-2 {
@@ -178,7 +178,7 @@ section#Gráficos2{
   max-height: 20%;
   border-radius: 10px;
   opacity: 0;
-  transition: 3s
+  transition: 5s
 }
 
 .aparecer-image-container-2 {
@@ -195,14 +195,14 @@ section#Gráficos2{
   max-height: 20%;
   border-radius: 10px;
   opacity: 0;
-  transition: 3s
+  transition: 8s
 }
 
 .aparecer-image-container-3 {
   opacity: 1;
 }
 
-#image-container-4 {
+.image-container-4 {
   padding-right: 85%;
   padding-left: 15%;
   padding-top:50%;
@@ -211,9 +211,15 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 9s
 }
 
-#image-container-5 {
+.aparecer-image-container-4 {
+  opacity: 1;
+}
+
+.image-container-5 {
   padding-right: 45%;
   padding-left: 50%;
   padding-top: 50%;
@@ -223,7 +229,14 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 9s;
 }
+
+.aparecer-image-container-5 {
+  opacity: 1;
+}
+
 
 #texto-1 {
   background-color: #070608;
@@ -232,8 +245,8 @@ section#Gráficos2{
   color: #99e4ff;
   justify-content: center;
   size: 100px;
-  padding-right: 25%;
-  padding-left: 25%;
+  padding-right: 17%;
+  padding-left: 20%;
   padding-top: 20%;
   padding-bottom: 35%;
   width: auto;
@@ -243,7 +256,7 @@ section#Gráficos2{
 }
 
 #texto-2 {
-  color: #d6766c;
+  color: #f4d54c;
   background-color: #070608;
   text-align: justify;
   font-family: unset;
@@ -259,7 +272,36 @@ section#Gráficos2{
   max-height: auto;
 }
 
-#image-container-6 {
+.Aquiles-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 15%;
+  padding-top: 50%;
+}
+
+.Aquiles-vertcontainer-1{
+  display: flex;
+  flex-direction: column;
+  order: 1;
+  max-width: 170px;
+  padding-left: 60px;
+
+}
+
+.Aquiles{
+    border-radius: 26px;
+}
+
+.Aquiles-vertcontainer-2 {
+  display: flex;
+  flex-direction: column;
+  order: 2;
+  max-width: 600px;
+  padding-left: 50px;
+  color: #99e4ff;
+}
+
+.image-container-6 {
   padding-right: 25%;
   padding-left: 24%;
   padding-top: 0%;
@@ -269,6 +311,12 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 6s;
+}
+
+.aparecer-image-container-6 {
+  opacity: 1;
 }
 
 #texto-3{
@@ -305,27 +353,36 @@ h2{
   max-height: auto;
 }
 
-#container-1 {
+.container-1 {
   display: flex;
   flex-direction: row;
-  border-left: 25%;
-  margin-left: 25%;
+  margin-left: 15%;
+  opacity: 0;
+  transition: 6s;
+}
+
+.aparecer-container-1 {
+  opacity: 1;
 }
 
 #vertcontainer-1{
   display:flex;
-  flex-direction: column;
-  flex-grow: 6;
+  flex-direction: row;
+  flex-grow: 2;
   order: 1;
-  padding-left: 0%;
-  width: 500px;
+  padding-left: 10%;
+  padding-right: 30%;
+  width: 1500px;
+  height: auto;
 }
 
 #vertcontainer-2{
-  display:flex;
-  flex-direction: column;
-  order: 2;
-  width: 500px;
+  flex-grow: 2;
+  order: 1;
+  padding-left: 18%;
+  padding-right: 10%;
+  width: 1200px;
+  height: auto;
 }
 
 #texto-4{
@@ -334,10 +391,9 @@ h2{
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  size: 200px;
-  padding-right: 25%;
-  padding-left: 18%;
-  padding-top: 65%;
+  padding-right: 36%;
+  padding-left: 10%;
+  padding-top: 2%;
   padding-bottom: 25%;
   width: auto;
   height:auto;
@@ -359,7 +415,7 @@ h2{
 }
 
 #texto-5 {
-  color: #d6766c;
+  color: ##f4d54c;
   background-color: #070608;
   text-align: justify;
   font-family: unset;
@@ -382,9 +438,9 @@ h2{
   font-family: unset;
   justify-content: center;
   size: 200px;
-  padding-right: 29%;
-  padding-left: 25%;
-  padding-top: 2%;
+  padding-right: 27%;
+  padding-left: 15%;
+  padding-top: 0%;
   padding-bottom: 25%;
   width: auto;
   height:auto;
@@ -392,17 +448,35 @@ h2{
   max-height: auto;
 }
 
-#container-2 {
+.texto-bloqueos{
+  padding-left: 20%;
+  padding-right: 15%;
+  opacity: 0;
+  transition: 5s;
+  color: #8A2A20;
+}
+
+.aparecer-texto-bloqueos {
+  opacity: 1;
+}
+
+.container-2 {
   text-align: justify;
-  padding-left: 25%;
+  padding-left: 2%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 5s;
+}
+
+.aparecer-container-2 {
+  opacity: 1;
 }
 
 #container-3 {
   display: flex;
   flex-direction: row;
   margin-bottom: 50%;
-  width: 1000px;
+  width: 1200px;
 }
 
 #vertcontainer-3 {
@@ -418,26 +492,54 @@ h2{
   display:flex;
   flex-direction: column;
   order: 1;
-  padding-left: 15%;
+  padding-left: 6%;
 }
 
 #texto-7{
-  color: #d6766c;
+  color: #8A2A20;
   background-color: #070608;
   padding-right: 0%;
-  padding-left: 10%;
+  padding-left: 3%;
   padding-top: 0%;
-  width: 300px;
+  width: 500px;
   height: auto;
   max-width: 70%;
   max-height: 60%;
   justify-content: center;
 }
 
+.indice-container{
+  display: flex;
+  flex-direction: row;
+  padding-left: 20%;
+}
+
+.indice{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  heignt: 100px;
+  padding-right: 50px;
+}
+
+.indice-2{
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  heignt: 900px;
+}
+
+.texto-extra{
+ padding-left: 28%;
+ padding-right: 28%;
+ padding-bottom: 10px;
+}
+
 #container-4 {
   display: flex;
   flex-direction: row;
   margin-bottom: 70%;
+  padding-top: 50%;
 }
 
 #vertcontainer-5 {
@@ -459,7 +561,7 @@ h2{
 }
 
 #texto-8{
-  color: #ffff99;
+  color: #f4d54c;
   background-color: #070608;
   padding-right: 0%;
   padding-left: 10%;
@@ -471,27 +573,46 @@ h2{
   justify-content: center;
 }
 
-#texto-9{
-  color: #d6766c;
+.texto-9{
+  padding-left: 10%;
+  padding-right: 40%;
+}
+
+.texto-10{
+  color: #f4d54c;
   background-color: #070608;
-  padding-right: 30%;
-  padding-left: 30%;
-  padding-top: 0%;
-  width: 40%;
+  padding-right: 24%;
+  padding-left: 23%;
+  padding-top: 40%;
+  width: 890px;
   height: auto;
   max-width: 60%;
   max-height: 60%;
   justify-content: center;
+  opacity: 0;
+  transition: 5s;
 }
 
-#container-5 {
+.aparecer-texto-10 {
+  opacity: 1;  
+}
+
+.container-5 {
   text-align: justify;
-  padding-left: 27%;
+  padding-left: 40%;
   filter: dropshadow(0px 3px 5px black);
+  opacity: 0;
+  transition: 5s;
+  width: 700px;
+  height: 700px;
+}
+
+.aparecer-container-5 {
+  opacity: 1;
 }
 
 .Image-with-curved-border{
-  border-radius: 50px;
+  border-radius: 30px;
 }
 
 .space {
