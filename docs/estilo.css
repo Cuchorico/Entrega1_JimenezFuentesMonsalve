@@ -256,7 +256,7 @@ section#Gráficos2{
 }
 
 #texto-2 {
-  color: #d6766c;
+  color: #f4d54c;
   background-color: #070608;
   text-align: justify;
   font-family: unset;
@@ -415,7 +415,7 @@ h2{
 }
 
 #texto-5 {
-  color: #d6766c;
+  color: ##f4d54c;
   background-color: #070608;
   text-align: justify;
   font-family: unset;
@@ -496,7 +496,7 @@ h2{
 }
 
 #texto-7{
-  color: #d6766c;
+  color: #8A2A20;
   background-color: #070608;
   padding-right: 0%;
   padding-left: 3%;
@@ -508,10 +508,38 @@ h2{
   justify-content: center;
 }
 
+.indice-container{
+  display: flex;
+  flex-direction: row;
+  padding-left: 20%;
+}
+
+.indice{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  heignt: 100px;
+  padding-right: 50px;
+}
+
+.indice-2{
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  heignt: 900px;
+}
+
+.texto-extra{
+ padding-left: 28%;
+ padding-right: 28%;
+ padding-bottom: 10px;
+}
+
 #container-4 {
   display: flex;
   flex-direction: row;
   margin-bottom: 70%;
+  padding-top: 50%;
 }
 
 #vertcontainer-5 {
@@ -533,7 +561,7 @@ h2{
 }
 
 #texto-8{
-  color: #ffff99;
+  color: #f4d54c;
   background-color: #070608;
   padding-right: 0%;
   padding-left: 10%;
@@ -546,12 +574,17 @@ h2{
 }
 
 .texto-9{
-  color: #d6766c;
+  padding-left: 10%;
+  padding-right: 40%;
+}
+
+.texto-10{
+  color: #f4d54c;
   background-color: #070608;
-  padding-right: 30%;
-  padding-left: 30%;
-  padding-top: 0%;
-  width: 40%;
+  padding-right: 24%;
+  padding-left: 23%;
+  padding-top: 40%;
+  width: 890px;
   height: auto;
   max-width: 60%;
   max-height: 60%;
@@ -560,16 +593,18 @@ h2{
   transition: 5s;
 }
 
-.aparecer-texto-9 {
+.aparecer-texto-10 {
   opacity: 1;  
 }
 
 .container-5 {
   text-align: justify;
-  padding-left: 11%;
+  padding-left: 40%;
   filter: dropshadow(0px 3px 5px black);
   opacity: 0;
   transition: 5s;
+  width: 700px;
+  height: 700px;
 }
 
 .aparecer-container-5 {
@@ -585,21 +620,6 @@ h2{
   width: auto;
   height: 50px;
 
-.texto-10 {
-  background-color: #070608;
-  width: 1000;
-  height: auto;
-  padding-top: 20%;
-  padding-left: 15%;
-  padding-right: 20%;
-  transition: 6s;
-  opacity: 0;
-
-}
-
-.aparecer-texto-10 {
-  opacity: 1;
-}
 
 <<<<<<< HEAD
 =======
