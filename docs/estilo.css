@@ -185,7 +185,7 @@ section#Gráficos2{
   opacity: 1;
 }
 
-#image-container-3 {
+.image-container-3 {
   padding-right:45%;
   padding-left: 50%;
   padding-top:50%;
@@ -194,6 +194,12 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 3s
+}
+
+.aparecer-image-container-3 {
+  opacity: 1;
 }
 
 #image-container-4 {
