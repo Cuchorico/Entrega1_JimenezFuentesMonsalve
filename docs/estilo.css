@@ -178,7 +178,7 @@ section#Gráficos2{
   max-height: 20%;
   border-radius: 10px;
   opacity: 0;
-  transition: 3s
+  transition: 5s
 }
 
 .aparecer-image-container-2 {
@@ -195,14 +195,14 @@ section#Gráficos2{
   max-height: 20%;
   border-radius: 10px;
   opacity: 0;
-  transition: 3s
+  transition: 8s
 }
 
 .aparecer-image-container-3 {
   opacity: 1;
 }
 
-#image-container-4 {
+.image-container-4 {
   padding-right: 85%;
   padding-left: 15%;
   padding-top:50%;
@@ -211,9 +211,15 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 9s
 }
 
-#image-container-5 {
+.aparecer-image-container-4 {
+  opacity: 1;
+}
+
+.image-container-5 {
   padding-right: 45%;
   padding-left: 50%;
   padding-top: 50%;
@@ -223,7 +229,14 @@ section#Gráficos2{
   max-width: 20%;
   max-height: 20%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 9s;
 }
+
+.aparecer-image-container-5 {
+  opacity: 1;
+}
+
 
 #texto-1 {
   background-color: #070608;

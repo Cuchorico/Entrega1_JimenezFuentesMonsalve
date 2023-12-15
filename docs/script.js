@@ -1,32 +1,51 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    let image_container_2 = document.getElementsByClassName("image-container-2")[0];
+    let containers = document.getElementsByClassName("image-fading");
 
-    window.onscroll = function () {
-        image_container_2.classList.add("aparecer-image-container-2");
-
-        var revealpoint = window.innerHeight - image_container_2.getBoundingClientRect().top;
-
-        if (revealpoint = 700) {
-            image_container_2.classList.add("aparecer-image-container-2");
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-2");
+            }
         }
-
-        console.log(revealpoint);
-    };
+    }
+    );
 });
 
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-3");
+            }
+        }
+    }
+    );
+});
 
 document.addEventListener('DOMContentLoaded', (event) => {
-    let image_container_3 = document.getElementsByClassName("image-container-3")[0];
+    let containers = document.getElementsByClassName("image-fading");
 
-    window.onscroll = function () {
-        image_container_2.classList.add("aparecer-image-container-3");
-
-        var revealpoint = window.innerHeight - image_container_3.getBoundingClientRect().top;
-
-        if (revealpoint = 1200) {
-            image_container_2.classList.add("aparecer-image-container-3");
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-4");
+            }
         }
+    }
+    );
+});
 
-        console.log(revealpoint);
-    };
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-image-container-5");
+            }
+        }
+    }
+    );
 });
