@@ -262,7 +262,7 @@ section#Gráficos2{
   opacity: 1;
 }
 
-#texto-2 {
+.texto-2 {
   color: #f4d54c;
   background-color: #070608;
   font-size: x-large;
@@ -309,12 +309,20 @@ section#Gráficos2{
   color: #99e4ff;
 }
 
+#texto-Aquiles{
+  font-size: xx-large;
+  text-align: justify;
+  text-justify: inter-word;
+  font-style: italic;
+  padding-left: 100px;
+}
+
 .image-container-6 {
   padding-right: 25%;
-  padding-left: 24%;
+  padding-left: 21%;
   padding-top: 0%;
   padding-bottom: 0%;
-  width: 700px;
+  width: 810px;
   height:auto;
   max-width: 20%;
   max-height: 20%;
@@ -333,9 +341,11 @@ section#Gráficos2{
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  size: 200px;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
   padding-right: 25%;
-  padding-left: 25%;
+  padding-left: 28%;
   padding-top: 50%;
   padding-bottom: 25%;
   width: auto;
@@ -350,7 +360,9 @@ h2{
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  size: 400px;
+  font-size: xxx-large;
+  text-align: justify;
+  text-justify: inter-word;
   padding-right: 25%;
   padding-left: 25%;
   padding-top: 50%;
@@ -380,7 +392,7 @@ h2{
   order: 1;
   padding-left: 10%;
   padding-right: 30%;
-  width: 1500px;
+  width: 3000px;
   height: auto;
 }
 
