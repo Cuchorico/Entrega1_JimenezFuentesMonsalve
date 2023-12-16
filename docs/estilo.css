@@ -394,6 +394,7 @@ h2{
   padding-right: 30%;
   width: 3000px;
   height: auto;
+
 }
 
 #vertcontainer-2{
@@ -403,6 +404,9 @@ h2{
   padding-right: 10%;
   width: 1200px;
   height: auto;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 #texto-4{
@@ -440,7 +444,9 @@ h2{
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  size: 200px;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
   padding-right: 25%;
   padding-left: 25%;
   padding-top: 10%;
@@ -457,7 +463,9 @@ h2{
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  size: 200px;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
   padding-right: 27%;
   padding-left: 15%;
   padding-top: 0%;
@@ -470,14 +478,28 @@ h2{
 
 .texto-bloqueos{
   padding-left: 20%;
-  padding-right: 15%;
+  padding-right: 20%;
   opacity: 0;
   transition: 5s;
   color: #8A2A20;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .aparecer-texto-bloqueos {
   opacity: 1;
+}
+
+.texto-bloqueos-2 {
+  padding-left: 20%;
+  padding-right: 20%;
+  opacity: 1;
+  transition: 5s;
+  color: white;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .container-2 {
@@ -503,29 +525,32 @@ h2{
   display:flex;
   flex-direction: column;
   order: 2;
-  border-radius: 10px;
-  width: 2500px;
-  height: 600px;
+  border-radius: 100px;
+  width: 500px;
+  height: 400px;
+  padding-left: 15%;
 }
 
 #vertcontainer-4 {
   display:flex;
   flex-direction: column;
   order: 1;
-  padding-left: 6%;
+  padding-left: 15%;
 }
 
 #texto-7{
   color: #8A2A20;
   background-color: #070608;
-  padding-right: 0%;
-  padding-left: 3%;
+  padding-right: 30%;
+  padding-left: 2%;
   padding-top: 0%;
-  width: 500px;
+  width: 350px;
   height: auto;
-  max-width: 70%;
-  max-height: 60%;
   justify-content: center;
+  color: white;
+  font-size: large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .indice-container{
@@ -549,10 +574,24 @@ h2{
   heignt: 900px;
 }
 
-.texto-extra{
- padding-left: 28%;
- padding-right: 28%;
- padding-bottom: 10px;
+.texto-extra-1 {
+  padding-left: 28%;
+  padding-right: 28%;
+  padding-bottom: 30px;
+  color: white;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.texto-extra-2{
+  padding-left: 28%;
+  padding-right: 28%;
+  padding-top: 20px;
+  color: white;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 #container-4 {
@@ -586,23 +625,27 @@ h2{
   padding-right: 0%;
   padding-left: 10%;
   padding-top: 0%;
-  width: 300px;
+  width: 550px;
   height: auto;
   max-width: 70%;
-  max-height: 60%;
+  max-height: 100%;
   justify-content: center;
+  font-size: x-large;
 }
 
 .texto-9{
+  color: #4c97f7;
   padding-left: 10%;
   padding-right: 40%;
+  font-size: x-large;
+  padding-bottom: 30px;
 }
 
-.texto-10{
+.texto-10 {
   color: #f4d54c;
   background-color: #070608;
   padding-right: 24%;
-  padding-left: 23%;
+  padding-left: 20%;
   padding-top: 40%;
   width: 890px;
   height: auto;
@@ -611,6 +654,10 @@ h2{
   justify-content: center;
   opacity: 0;
   transition: 5s;
+  justify-content: center;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .aparecer-texto-10 {
@@ -619,7 +666,7 @@ h2{
 
 .container-5 {
   text-align: justify;
-  padding-left: 40%;
+  padding-left: 30%;
   filter: dropshadow(0px 3px 5px black);
   opacity: 0;
   transition: 5s;
