@@ -238,32 +238,40 @@ section#Gráficos2{
 }
 
 
-#texto-1 {
+.texto-1 {
   background-color: #070608;
-  text-align: justify
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
   font-family: unset;
   color: #99e4ff;
   justify-content: center;
-  size: 100px;
   padding-right: 17%;
-  padding-left: 20%;
-  padding-top: 20%;
+  padding-left: 19%;
+  padding-top: 21%;
   padding-bottom: 35%;
   width: auto;
   height:auto;
   max-width: auto;
   max-height: auto;
+  opacity: 0;
+  transition: 5s;
+}
+
+.aparecer-texto-1{
+  opacity: 1;
 }
 
 #texto-2 {
   color: #f4d54c;
   background-color: #070608;
+  font-size: x-large;
   text-align: justify;
+  text-justify: inter-word;
   font-family: unset;
   justify-content: center;
-  size: 200px;
-  padding-right: 25%;
-  padding-left: 25%;
+  padding-right: 19%;
+  padding-left: 21%;
   padding-top: 50%;
   padding-bottom: 3%;
   width: auto;
