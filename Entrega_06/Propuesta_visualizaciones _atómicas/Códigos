@@ -1,0 +1,132 @@
+# CÓDIGOS:
+
+# Gráfico 1:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Gráfico Plotly en HTML</title>
+    <style>
+        body {
+            background-color: #070608; /* Color de fondo de la página */
+            color: #ffffff; /* Color del texto en la página */
+        }
+    </style>
+</head>
+<body>
+
+<div id="grafico"></div>
+
+<script>
+    // Datos del gráfico
+    var valoresAY = [156471,141443,149352,132558,136003,119637,152650,261005,528688];
+    var valoresBY = [27248,28766,38861,28053,20926,116603,142177,258068,488494];
+    var valoresX = [2015,2016,2017,2018,2019,2020,2021,2022,2023];
+
+    // Crear trazas
+    var trace1 = {
+        x: valoresX,
+        y: valoresAY,
+        mode: 'lines+markers',
+        name: 'Presupuesto IND (en miles de $US)',
+        marker: {color: 'yellow'}
+    };
+
+    var trace2 = {
+        x: valoresX,
+        y: valoresBY,
+        mode: 'lines+markers',
+        name: 'Ejecución o gasto (en miles de $US y hasta sept. 2023)',
+        marker: {color: 'blue'}
+    };
+
+    // Configurar diseño del gráfico sin especificar el color de fondo
+    var layout = {
+        title: 'Presupuesto IND vs Ejecución o gasto',
+        xaxis: {title: 'Años'},
+        yaxis: {title: 'Miles de $US'},
+        paper_bgcolor: '#070608', // Color de fondo del área del gráfico
+        plot_bgcolor: '#070608',  // Color de fondo del gráfico
+        font: {color: '#ffffff'}  // Color del texto del gráfico
+    };
+
+    // Crear figura
+    var data = [trace1, trace2];
+    Plotly.newPlot('grafico', data, layout);
+</script>
+
+</body>
+</html>
+
+
+
+# Gráfico 2:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Desglose de Ejecución Presupuestaria del IND</title>
+</head>
+<body style="background-color: #07608; color: #ffffff;">
+
+<!-- Contenedor para el gráfico -->
+<div id="plotly-chart" style="width: 80%; margin: 0 auto;"></div>
+
+<script>
+// Código de Python convertido a JavaScript
+var xvals = [116122, 103135, 127324, 235571, 422532];
+var yvals = [5021, 6148, 10339, 49978, 209213];
+var zvals = [20771, 19392, 23126, 25765, 20668];
+
+var N = 5;
+var ind = [...Array(N).keys()];
+var width = 0.12;
+
+var trace1 = {
+    x: ind,
+    y: xvals,
+    name: 'Gasto Total',
+    type: 'bar',
+    marker: {color: '#BA2A20'}
+};
+
+var trace2 = {
+    x: ind.map(i => i + width),
+    y: yvals,
+    name: 'En Para y Panamericanos',
+    type: 'bar',
+    marker: {color: '#ABB900'}
+};
+
+var trace3 = {
+    x: ind.map(i => i + width * 2),
+    y: zvals,
+    name: 'En Federaciones Deportivas',
+    type: 'bar',
+    marker: {color: '#004BAB'}
+};
+
+var layout = {
+    title: 'Desglose de Ejecución Presupuestaria del IND',
+    xaxis: { title: 'Año', tickvals: ind.map(i => i + width), ticktext: ["2019", "2020", "2021", "2022", "2023 (hasta sept.)"], tickfont: {color: '#ffffff'} },
+    yaxis: { title: 'En millones de pesos (CLP)', titlefont: {color: '#ffffff'}, tickfont: {color: '#ffffff'} },
+    template: 'plotly_dark',  // Usar un fondo oscuro
+    barmode: 'group',
+    plot_bgcolor: 'rgba(0, 0, 0, 0)',
+    paper_bgcolor: 'rgba(0, 0, 0, 0)',
+    font: {color: '#ffffff'}
+};
+
+var data = [trace1, trace2, trace3];
+
+Plotly.newPlot('plotly-chart', data, layout);
+</script>
+
+</body>
+</html>

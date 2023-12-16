@@ -1,0 +1,6 @@
+Año	Gasto Total (en miles de $CLP)	Gasto en Pana y Parapanamericanos (en miles de $CLP)	Gasto en Deportistas Profesionales (en miles de $CLP)
+2019	116.122.843	5.021.320	20.771.654
+2020	103.135.546	6.148.196	19.392.466
+2021	127.324.943	10.339.349	23.126.931
+2022	235.571.394	49.978.285	25.765.258
+2023 (hasta sept.)	422.532.688	209.213.723	
