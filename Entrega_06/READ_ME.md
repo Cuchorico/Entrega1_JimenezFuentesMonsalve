@@ -1,8 +1,8 @@
 # INFORMACIÓN GENERAL
 
-* Link al sitio: https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/
+* **Link al sitio:** https://cuchorico.github.io/Entrega_JimenezFuentesMonsalve/
 
-* Resumen del proceso:
+* **Resumen del proceso:**
 
 La webstory utilizó diversos aspectos que teníamos planeados con antelación para ser incorporados en esta. En primer lugar, el fondo de color negro para añadir ese toque de misterio y de obscuridad que le queríamos dar a nuestro relato, más cercano a lo que es el periodismo investigativo, ya que revelamos información nueva que no es de público conocimiento (bloqueos económicos a las federaciones deportivas, fondos cuya ejecución es menor y cuyo destino no es conocido, etc.). 
 
@@ -17,3 +17,16 @@ Entre otros aspectos está la evolución de dos gráficos, hechos originalmente 
 Desde el aspecto más humano y menos técnico, se utilizaron para las entrevistas los testimonios del académico de Fisiología Ricardo Yáñez (para conocer las consecuencias de la falta de financiamiento o el mal uso de los recursos en los deportistas nacionales y la población general), el presidente de la Federación de Biathlón Manuel Reyes (para respaldar la idea de que hay federaciones con bloqueos económicos hace años por parte del IND), y el periodista y vocero de la dirección del Instituto Nacional de Deportes, Carlos Marchant (para dar respuesta al destino de los fondos no utilizados y un adelanto a futuros planes del IND), ante una agenda copada e indisponibilidad del director nacional del organismo público, Israel Castro. Tampoco contamos con el testimonio de Nicole Sáez, académica USACH y ex subsecretaria del Deporte, quien además es conocedora de la problemática del financiamiento de los deportistas de elite en Chile y las políticas publicas relativas tanto actuales como aquellas necesarias para resolver la cuestión en base a la experiencia comparada internacional, la cual conoce. Pero ella no contestó nuestros correos.
 
 Finalmente, se descartó utilizar el testimonio de más deportistas sobre una posible falta de financiamiento, ya que consideramos que quedaba bastante claro el reclamo de los atletas con el collage de fotos de titulares que así lo registran, presente en la introducción del relato.
+
+* **Tabla de autoría de Webstory:**
+
+| Elemento | Edward Jimenez | Jorge Fuentes | Agustín Monsalve |
+|:---------|:-------------|:-------------|:-------------|
+| Gráficos en Flourish        |    Edward          |     Jorge         |              |
+| Gráficos Plotly en HTML        |     Edward         |              |   Agustín         |
+| Índice interactivo       |              |    Jorge          |              |
+| Fade in de elementos |  |  | Agustín (con ayuda de profe Katherine) |
+|Crónicas del relato | | |Agustín |
+|Color, tamaño, justificación y posicionamiento de textos| | |Agustín |
+|Hípervínculos| | |Agustín |
+|Entrevistas a Aquíles Yáñez, Manuel Reyes y Carlos Marchant| | |Agustín|

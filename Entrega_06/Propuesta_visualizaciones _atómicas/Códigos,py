@@ -49,7 +49,7 @@
         yaxis: {title: 'Miles de $US'},
         paper_bgcolor: '#070608', // Color de fondo del área del gráfico
         plot_bgcolor: '#070608',  // Color de fondo del gráfico
-        font: {color: '#ffffff'}  // Color del texto del gráfico
+        font: {color: '#ffffff'}  //Color del texto del gráfico
     };
 
     // Crear figura
