@@ -557,7 +557,7 @@ h2{
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
-    border-radius: 26px;
+  border-radius: 26px;
 }
 
 .aparecer-texto-bloqueos {
@@ -596,7 +596,7 @@ h2{
 #container-3 {
   display: flex;
   flex-direction: row;
-  margin-bottom: 50%;
+  margin-bottom: 10%;
   width: 1200px;
 }
 
@@ -618,7 +618,6 @@ h2{
 }
 
 #texto-7{
-  color: #8A2A20;
   background-color: #070608;
   padding-right: 30%;
   padding-left: 2%;
@@ -630,6 +629,46 @@ h2{
   font-size: large;
   text-align: justify;
   text-justify: inter-word;
+}
+
+#texto-7y5{
+  background-color: #070608;
+  padding-top: 0%;
+  padding-right: 15%;
+  width: 350px;
+  height: auto;
+  justify-content: center;
+  color: white;
+  font-size: large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+#container-3y5{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50%;
+  width: 1200px;
+}
+
+#vertcontainer-3y5y1 {
+  display:flex;
+  flex-direction: column;
+  order: 1;
+  border-radius: 26px;
+  width: 500px;
+  height: 400px;
+  padding-left: 15%;
+}
+
+#vertcontainer-3y5y2{
+  display:flex;
+  flex-direction: column;
+  order: 2;
+  border-radius: 100px;
+  width: 500px;
+  height: 400px;
+  padding-left: 15%;
 }
 
 .indice-container{
@@ -715,7 +754,7 @@ h2{
 .texto-9{
   color: #4c97f7;
   padding-left: 10%;
-  padding-right: 40%;
+  padding-right: 30%;
   font-size: x-large;
   padding-bottom: 30px;
 }
@@ -745,12 +784,12 @@ h2{
 
 .container-5 {
   text-align: justify;
-  padding-left: 30%;
+  padding-left: 50%;
   filter: dropshadow(0px 3px 5px black);
   opacity: 0;
   transition: 5s;
-  width: 700px;
-  height: 700px;
+  width: 500px;
+  height: 500px;
 }
 
 .aparecer-container-5 {
