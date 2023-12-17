@@ -377,20 +377,21 @@ section#Gráficos2{
 }
 
 #texto-Aquiles{
-  font-size: xx-large;
+  font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
   font-style: italic;
   padding-left: 20px;
   color: white;
+  padding-top: 20px;
 }
 
 #texto-Manuel {
-  font-size: xx-large;
+  font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
   font-style: italic;
-  padding-left: 20px;
+  padding-left: 27px;
   color: white;
 }
 
