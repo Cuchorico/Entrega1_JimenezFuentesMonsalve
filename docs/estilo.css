@@ -47,11 +47,12 @@ image-container {
 	color: #A88900;
 	position: absolute;
 	top: 60%; 
-	left: 81%; 
+	left: 79%; 
 	transform: translate(-50%, -50%);  
 	padding: 10px 20px; 
 	font-size: 20px; 
 	text-align: left;
+
 }
 
 }
@@ -283,17 +284,23 @@ section#Gráficos2{
 .Aquiles-container {
   display: flex;
   flex-direction: row;
-  padding-left: 15%;
-  padding-top: 50%;
+  padding-left: 4%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: #005858;
+  margin-top: 50%;
+  margin-left: 3%;
+  margin-right: 4%;
+  border-radius: 10px;
 }
 
 .Aquiles-vertcontainer-1{
   display: flex;
   flex-direction: column;
   order: 1;
-  max-width: 170px;
-  padding-left: 60px;
-
+  max-width: 100px;
+  padding-left: 10px;
+  padding-top: 3%;
 }
 
 .Aquiles{
@@ -303,10 +310,22 @@ section#Gráficos2{
 .Aquiles-vertcontainer-2 {
   display: flex;
   flex-direction: column;
-  order: 2;
-  max-width: 600px;
-  padding-left: 50px;
+  order: 3;
+  max-width: 690px;
+  padding-left: 2%;
   color: #99e4ff;
+}
+
+.Aquiles-vertcontainer-3 {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-left: 10%;
+  max-width: 170px;
+  order: 2;
+  font-size: large; 
 }
 
 #texto-Aquiles{
@@ -314,8 +333,10 @@ section#Gráficos2{
   text-align: justify;
   text-justify: inter-word;
   font-style: italic;
-  padding-left: 100px;
+  padding-left: 20px;
+  color: white;
 }
+
 
 .image-container-6 {
   padding-right: 25%;
@@ -363,10 +384,10 @@ h2{
   font-size: xxx-large;
   text-align: justify;
   text-justify: inter-word;
-  padding-right: 25%;
-  padding-left: 25%;
+  padding-right: 20%;
+  padding-left: 23%;
   padding-top: 50%;
-  padding-bottom: 25%;
+  padding-bottom: 50%;
   width: auto;
   height:auto;
   max-width: auto;
@@ -374,55 +395,46 @@ h2{
 }
 
 .container-1 {
-  display: flex;
-  flex-direction: row;
-  margin-left: 15%;
   opacity: 0;
   transition: 6s;
+  padding-left: 6%;
+  padding-right: 0%;
+  width: 1150px;
+  height: 800px;
 }
 
 .aparecer-container-1 {
   opacity: 1;
 }
 
-#vertcontainer-1{
-  display:flex;
-  flex-direction: row;
-  flex-grow: 2;
-  order: 1;
-  padding-left: 10%;
-  padding-right: 30%;
-  width: 3000px;
-  height: auto;
 
-}
-
-#vertcontainer-2{
-  flex-grow: 2;
-  order: 1;
-  padding-left: 18%;
-  padding-right: 10%;
+#container-1-y-medio {
+  padding-left: 11%;
+  padding-right: 20%;
+  padding-top: 0%;
   width: 1200px;
   height: auto;
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
+  background-color: #070608;
 }
 
 #texto-4{
-  color: #4c97f7;
-  background-color: #070608;
+  color: white;
+  background-color: #00005f;
   text-align: justify;
   font-family: unset;
   justify-content: center;
-  padding-right: 36%;
-  padding-left: 10%;
-  padding-top: 2%;
-  padding-bottom: 25%;
+  padding-right: 3%;
+  padding-left: 3%;
+  padding-top: 3%;
+  padding-bottom: 3%;
   width: auto;
   height:auto;
-  max-width: auto;
+  max-width: 990px;
   max-height: auto;
+  border-radius: 26px;
 }
 
 #image-container-7 {
@@ -448,7 +460,7 @@ h2{
   text-align: justify;
   text-justify: inter-word;
   padding-right: 25%;
-  padding-left: 25%;
+  padding-left: 27%;
   padding-top: 10%;
   padding-bottom: 25%;
   width: auto;
@@ -466,7 +478,7 @@ h2{
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
-  padding-right: 27%;
+  padding-right: 18%;
   padding-left: 15%;
   padding-top: 0%;
   padding-bottom: 25%;
@@ -477,14 +489,21 @@ h2{
 }
 
 .texto-bloqueos{
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 5%;
+  margin-left: 20%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom:5%;
+  left:25%;
   opacity: 0;
   transition: 5s;
-  color: #8A2A20;
+  max-width: 600px;
+  color: white;
+  background-color: #8A2A20;
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
+    border-radius: 26px;
 }
 
 .aparecer-texto-bloqueos {
