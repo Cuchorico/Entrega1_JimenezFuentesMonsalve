@@ -24,6 +24,7 @@ Finalmente, se descartó utilizar el testimonio de más deportistas sobre una po
 |:---------|:-------------|:-------------|:-------------|
 | Gráficos en Flourish        |    Edward          |     Jorge         |              |
 | Gráficos Plotly en HTML        |     Edward         |              |   Agustín         |
+|Gráfico Matplotlib de Medallero Santiago 2023| | |Agustín |
 | Índice interactivo       |              |    Jorge          |              |
 | Fade in de elementos |  |  | Agustín (con ayuda de profe Katherine) |
 |Crónicas del relato | | |Agustín |

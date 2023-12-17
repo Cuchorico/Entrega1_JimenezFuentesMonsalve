@@ -1,6 +1,7 @@
 # CÓDIGOS:
 
 # Gráfico 1: Fue escogido porque, pese a su generalidad (es todo el presupuesto anual del IND vs lo ejecutado de este) ofrece información relevante, como que solo 1/3 de los fondos se invirtió de 2015 hasta 2019. Esto introduce la pregunta de por qué motivos ocurrió esto y cuál es el destino de estos fondos inutilizados.
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -129,3 +130,37 @@ Plotly.newPlot('plotly-chart', data, layout);
 
 </body>
 </html>
+
+
+# Gráfico 3: Escogido por representar y ejemplificar detalladamente y en términos prácticos el rendimiento de los primeros ocho países en los Juegos Panamericanos a través del desglose del tipo de medallas adquiridas y su consecuente posición en el tablero. Aporta el contraste entre el orden de los países que invierten más en sus deportistas de elite vs el orden de posicionamiento en el medallero, lo cual apoya el argumento de la historia que señala que poseer más fondos no se traduce instantáneamente en mejor rendimiento deportivo.
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+medidas=('Oro','Plata','Bronce')
+y = ["Chile (8°)","Argentina (7°)","Colombia (6°)","Cuba (5°)",'Canadá (4°)','México (3°)','Brasil (2°)','EE.UU. (1°)']
+
+verde_1 = np.array([12,17,29,30,46,52,66,124])
+amarillo_1 = np.array([75,73,38,55,22,38,25,31])
+rojo_1 = np.array([87,66,52,63,17,34,33,36])
+
+plt.barh(y, verde_1, height=0.5, color='#A88900')
+plt.barh(y, amarillo_1, left=verde_1, height=0.5, color='#868686')
+plt.barh(y, rojo_1, left=verde_1 + amarillo_1, height=0.5, color='#5c3d00')
+
+plt.title('Medallero desglosado Santiago 2023')
+plt.xlabel('Medallas')
+plt.ylabel('País (Top-8)')
+plt.legend(labels=medidas)
+
+
+for i, (v, a, r) in enumerate(zip(verde_1, amarillo_1, rojo_1)):
+    ax.text(v / 2, i, str(v), ha='center', va='center', color='black')
+    ax.text(v + a / 2, i, str(a), ha='center', va='center', color='black')
+    ax.text(v + a + r / 2, i, str(r), ha='center', va='center', color='black')
+
+
+ax.legend()
+
+plt.show()

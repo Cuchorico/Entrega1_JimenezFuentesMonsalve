@@ -305,7 +305,7 @@ section#Gráficos2{
   margin-top: 50%;
   margin-left: 3%;
   margin-right: 4%;
-  border-radius: 10px;
+  border-radius: 26px;
 }
 
 .Aquiles-vertcontainer-1{
@@ -666,7 +666,7 @@ h2{
   display:flex;
   flex-direction: column;
   order: 2;
-  border-radius: 100px;
+  border-radius: 40px;
   width: 500px;
   height: 400px;
   padding-left: 15%;
