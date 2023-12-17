@@ -619,10 +619,13 @@ h2{
 }
 
 #texto-7{
-  background-color: #070608;
-  padding-right: 30%;
-  padding-left: 2%;
-  padding-top: 0%;
+  background-color: #005858;
+  border-radius: 26px;
+  margin-right: 30%;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
   width: 350px;
   height: auto;
   justify-content: center;
@@ -633,10 +636,14 @@ h2{
 }
 
 #texto-7y5{
-  background-color: #070608;
-  padding-top: 0%;
-  padding-right: 15%;
-  width: 350px;
+  background-color: #005858;
+  margin-right: 15%;
+  border-radius: 26px;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  width: 300px;
   height: auto;
   justify-content: center;
   color: white;
@@ -666,10 +673,9 @@ h2{
   display:flex;
   flex-direction: column;
   order: 2;
-  border-radius: 40px;
   width: 500px;
   height: 400px;
-  padding-left: 15%;
+  margin-left: 130px;
 }
 
 .indice-container{
