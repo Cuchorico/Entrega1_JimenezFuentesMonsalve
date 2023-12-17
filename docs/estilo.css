@@ -662,15 +662,46 @@ h2{
   text-justify: inter-word;
 }
 
+
+#container-3y5{
+  display: flex;
+  flex-direction: row;
+  margin-top: 40%;
+  margin-bottom: 40%;
+  marging-left: 40%;
+}
+
+#vertcontainer-3y5y1 {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5%;
+  border-radius: 26px;
+  perspective: 1px;
+  width: 700px;
+  height: 400px;
+  padding-left: 13%;
+  order: 1;
+}
+
+#vertcontainer-3y5y2{
+  display:flex;
+  order: 2;
+  flex-direction: column;
+  width: 200px;
+  height: 400px;
+  margin-left: 50px;
+}
+
 #texto-7y5{
   background-color: #005858;
   margin-right: 15%;
+  margin-top: 0%;
   border-radius: 26px;
   padding-left: 10%;
   padding-top: 10%;
   padding-right: 10%;
   padding-bottom: 10%;
-  width: 300px;
+  width: 210px;
   height: auto;
   justify-content: center;
   color: white;
@@ -679,63 +710,42 @@ h2{
   text-justify: inter-word;
 }
 
-#container-3y5{
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 50%;
-  width: 1200px;
-}
-
-#vertcontainer-3y5y1 {
-  display:flex;
-  flex-direction: column;
-  order: 1;
-  border-radius: 26px;
-  perspective: 1px;
-  width: 500px;
-  height: 400px;
-  padding-left: 15%;
-}
-
-#vertcontainer-3y5y2{
-  display:flex;
-  flex-direction: column;
-  order: 2;
-  width: 500px;
-  height: 400px;
-  margin-left: 130px;
-}
-
 .indice-container{
   display: flex;
   flex-direction: row;
-  padding-left: 25%;
+  padding-left: 21%;
 }
 
 .indice{
   display: flex;
   flex-direction: column;
-  width: 140px;
-  heignt: auto;
-  padding-right: 50px;
+  width: 100px;
+  heignt: 100px;
+  padding-right: 30px;
 }
 
 .indice-2{
   display: flex;
   flex-direction: column;
-  width: 700px;
-  heignt: 900px;
+  width: 70px;
+  heignt: 70px;
 }
 
 .texto-extra-1 {
-  padding-left: 13%;
-  padding-right: 15%;
-  padding-bottom: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
   color: white;
-  max-width: 1000 px;
+  max-width: 700 px;
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
+  background-color: #004BAB;
+  border-radius: 26px;
+  margin-bottom: 50px;
+  margin-left: 13%;
+  margin-right: 15%;
 }
 
 .texto-extra-2{
