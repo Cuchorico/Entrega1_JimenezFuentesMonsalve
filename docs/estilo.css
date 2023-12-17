@@ -688,7 +688,7 @@ h2{
 .indice{
   display: flex;
   flex-direction: column;
-  width: 200px;
+  width: 300px;
   heignt: 100px;
   padding-right: 50px;
 }
@@ -701,19 +701,21 @@ h2{
 }
 
 .texto-extra-1 {
-  padding-left: 28%;
-  padding-right: 28%;
-  padding-bottom: 30px;
+  padding-left: 13%;
+  padding-right: 15%;
+  padding-bottom: 50px;
   color: white;
+  max-width: 1000 px;
   font-size: x-large;
   text-align: justify;
   text-justify: inter-word;
 }
 
 .texto-extra-2{
-  padding-left: 28%;
+  padding-left: 13%;
   padding-right: 28%;
-  padding-top: 20px;
+  padding-top: 50px;
+  width: 1000px;
   color: white;
   font-size: x-large;
   text-align: justify;
