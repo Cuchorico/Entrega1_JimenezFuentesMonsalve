@@ -1,6 +1,6 @@
 # CÓDIGOS:
 
-# Gráfico 1: Fue escogido porque, pese a su generalidad (es todo el presupuesto del IND vs lo ejecutado) ofrece información relevante, como que solo 1/3 se ejecutó de 2015 hasta 2019. Esto introduce la pregunta de por qué y por cuál es el destino de estos fondos inutilizados.
+# Gráfico 1: Fue escogido porque, pese a su generalidad (es todo el presupuesto anual del IND vs lo ejecutado de este) ofrece información relevante, como que solo 1/3 de los fondos se invirtió de 2015 hasta 2019. Esto introduce la pregunta de por qué motivos ocurrió esto y cuál es el destino de estos fondos inutilizados.
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -62,7 +62,7 @@
 
 
 
-# Gráfico 2: este gráfico fue escogido porque explicita que el alza gigantesca en el presupuesto desde el año 2020 no significó lo mismo para las partidas que van directo en beneficio de los deportistas (Fomento Deporte Convencional, ADO, COPACHI, etc.), por lo que existe una especie de constancia en el tiempo en el financiamiento de los deportistas, el cual ya era menor antes de 2020.
+# Gráfico 2: este gráfico fue escogido porque explicita que el alza gigantesca en el presupuesto del IND desde el año 2020 no significó lo mismo para las partidas que van directo en beneficio de los deportistas (Fomento Deporte Convencional, ADO, COPACHI, etc.), por lo que existe una especie de constancia en el tiempo en el financiamiento de los deportistas, el cual ya era menor antes de 2020.
 
 <!DOCTYPE html>
 <html lang="en">
