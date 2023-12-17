@@ -56,6 +56,21 @@ document.addEventListener('DOMContentLoaded', (event) => {
     window.addEventListener('scroll', function() {
         for (let i = 0; i < containers.length; i++) {
             if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-texto-2");
+            }
+        }
+    }
+    );
+});
+
+
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
                 containers[i].classList.add("aparecer-image-container-6");
             }
         }
@@ -69,7 +84,46 @@ document.addEventListener('DOMContentLoaded', (event) => {
     window.addEventListener('scroll', function() {
         for (let i = 0; i < containers.length; i++) {
             if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-Aquiles-container");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-Manuel-container");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
                 containers[i].classList.add("aparecer-container-1");
+            }
+        }
+    }
+    );
+});
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    let containers = document.getElementsByClassName("image-fading");
+
+    window.addEventListener('scroll', function() {
+        for (let i = 0; i < containers.length; i++) {
+            if (containers[i].getBoundingClientRect().top < window.innerHeight - 94) {
+                containers[i].classList.add("aparecer-texto-6");
             }
         }
     }

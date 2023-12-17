@@ -279,6 +279,12 @@ section#Gráficos2{
   height:auto;
   max-width: auto;
   max-height: auto;
+  opacity: 0;
+  transition: 5s;
+}
+
+.aparecer-texto-2 {
+  opacity: 1;
 }
 
 .Aquiles-container {
@@ -292,6 +298,12 @@ section#Gráficos2{
   margin-left: 3%;
   margin-right: 4%;
   border-radius: 10px;
+  opacity: 0;
+  transition: 5s;
+}
+
+.aparecer-Aquiles-container {
+  opacity: 1;
 }
 
 .Manuel-container {
@@ -306,6 +318,12 @@ section#Gráficos2{
   margin-left: 3%;
   margin-right: 4%;
   border-radius: 26px;
+  opacity: 0;
+  transition: 9s;
+}
+
+.Manuel-container {
+  opacity: 1;
 }
 
 .Aquiles-vertcontainer-1{
@@ -404,7 +422,8 @@ section#Gráficos2{
   height:auto;
   max-width: 20%;
   max-height: 20%;
-  border-radius: 10px;
+  border-radius: 20px;
+  perspective: 1px;
   opacity: 0;
   transition: 6s;
 }
@@ -450,6 +469,7 @@ h2{
   max-width: auto;
   max-height: auto;
 }
+
 
 .container-1 {
   opacity: 0;
@@ -526,7 +546,7 @@ h2{
   max-height: auto;
 }
 
-#texto-6{
+.texto-6{
   color: white;
   background-color: #070608;
   text-align: justify;
@@ -543,6 +563,12 @@ h2{
   height:auto;
   max-width: auto;
   max-height: auto;
+  opacity: 0;
+  transition: 7s;
+}
+
+.aparecer-texto-6 {
+  opacity: 1;
 }
 
 .texto-bloqueos{
@@ -665,6 +691,7 @@ h2{
   flex-direction: column;
   order: 1;
   border-radius: 26px;
+  perspective: 1px;
   width: 500px;
   height: 400px;
   padding-left: 15%;
@@ -682,14 +709,14 @@ h2{
 .indice-container{
   display: flex;
   flex-direction: row;
-  padding-left: 20%;
+  padding-left: 25%;
 }
 
 .indice{
   display: flex;
   flex-direction: column;
-  width: 300px;
-  heignt: 100px;
+  width: 140px;
+  heignt: auto;
   padding-right: 50px;
 }
 
