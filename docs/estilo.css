@@ -297,9 +297,10 @@ section#Gráficos2{
 .Manuel-container {
   display: flex;
   flex-direction: row;
-  padding-left: 4%;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 3%;
+  padding-bottom: 3%;
   background-color: #005858;
   margin-top: 50%;
   margin-left: 3%;
