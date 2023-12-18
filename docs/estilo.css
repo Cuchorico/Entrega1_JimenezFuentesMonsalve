@@ -322,7 +322,7 @@ section#Gráficos2{
   transition: 9s;
 }
 
-.Manuel-container {
+.aparecer-Manuel-container {
   opacity: 1;
 }
 
@@ -668,7 +668,7 @@ h2{
   flex-direction: row;
   margin-top: 40%;
   margin-bottom: 40%;
-  marging-left: 40%;
+  marging-left: 20%;
 }
 
 #vertcontainer-3y5y1 {
@@ -679,7 +679,7 @@ h2{
   perspective: 1px;
   width: 700px;
   height: 400px;
-  padding-left: 13%;
+  padding-left: 5%;
   order: 1;
 }
 
@@ -687,9 +687,10 @@ h2{
   display:flex;
   order: 2;
   flex-direction: column;
-  width: 200px;
+  width: 400px;
   height: 400px;
   margin-left: 50px;
+  margin-top: 3%;
 }
 
 #texto-7y5{
@@ -701,13 +702,22 @@ h2{
   padding-top: 10%;
   padding-right: 10%;
   padding-bottom: 10%;
-  width: 210px;
+  width: 300px;
   height: auto;
   justify-content: center;
   color: white;
   font-size: large;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.indice-max {
+  opacity: 0;
+  transition: 6s;
+}
+
+.aparecer-indice-max {
+  opacity: 1;
 }
 
 .indice-container{
@@ -732,10 +742,10 @@ h2{
 }
 
 .texto-extra-1 {
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 15px;
-  padding-top: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
   color: white;
   max-width: 700 px;
   font-size: x-large;
@@ -798,15 +808,69 @@ h2{
   font-size: x-large;
 }
 
-.texto-9{
+.texto-9 {
   color: #4c97f7;
   padding-left: 10%;
   padding-right: 30%;
   font-size: x-large;
   padding-bottom: 30px;
+  opacity: 0;
+  transition: 6s;
+}
+
+.aparecer-texto-9{
+  opacity: 1;
 }
 
 .texto-10 {
+  color: #f4d54c;
+  background-color: #070608;
+  padding-right: 24%;
+  padding-left: 20%;
+  padding-top: 40%;
+  padding-bottom: 40%;
+  width: 890px;
+  height: auto;
+  max-width: 60%;
+  max-height: 60%;
+  justify-content: center;
+  opacity: 0;
+  transition: 5s;
+  justify-content: center;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.aparecer-texto-10 {
+  opacity: 1;  
+}
+
+.texto-11 {
+  color: #f4d54c;
+  background-color: #070608;
+  padding-right: 24%;
+  padding-left: 20%;
+  padding-top: 50%;
+  padding-bottom: 50%;
+  width: 890px;
+  height: auto;
+  max-width: 60%;
+  max-height: 60%;
+  justify-content: center;
+  opacity: 0;
+  transition: 5s;
+  justify-content: center;
+  font-size: x-large;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.aparecer-texto-11 {
+  opacity: 1;  
+}
+
+.texto-12 {
   color: #f4d54c;
   background-color: #070608;
   padding-right: 24%;
@@ -825,7 +889,7 @@ h2{
   text-justify: inter-word;
 }
 
-.aparecer-texto-10 {
+.aparecer-texto-12 {
   opacity: 1;  
 }
 
