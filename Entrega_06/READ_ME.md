@@ -22,12 +22,12 @@ Finalmente, se descartó utilizar el testimonio de más deportistas sobre una po
 
 | Elemento | Edward Jimenez | Jorge Fuentes | Agustín Monsalve |
 |:---------|:-------------|:-------------|:-------------|
-| Gráficos en Flourish        |    Edward          |     Jorge         |              |
-| Gráficos Plotly en HTML        |     Edward         |              |   Agustín         |
+| Gráficos en Flourish (3)     |    Edward          |     Jorge         |              |
+| Gráficos Plotly en HTML (3)        |     Edward         |              |   Agustín         |
 |Gráfico Matplotlib de Medallero Santiago 2023| | |Agustín |
 | Índice interactivo       |              |    Jorge          |              |
 | Fade in de elementos |  |  | Agustín (con ayuda de profe Katherine) |
 |Crónicas del relato | | |Agustín |
-|Color, tamaño, justificación y posicionamiento de textos| | |Agustín |
-|Hípervínculos| | |Agustín |
+|Color, fondo, tamaño, justificación y posicionamiento de textos| | |Agustín |
+|Hípervínculos y fuentes| | |Agustín |
 |Entrevistas a Aquíles Yáñez, Manuel Reyes y Carlos Marchant| | |Agustín|
